@@ -23,7 +23,20 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Business Entity Recognition helps you to detect and highlight any
+type of business entity in unstructured text. You can use the
+service, for example, to automatically extract the context from
+incoming emails with invoice inquiries, automating recurring tasks
+associated with answering queries about the status and payment of
+invoices. Business Entity Recognition is part of the SAP AI Business
+Services portfolio.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Business Entity Recognition helps you to detect and highlight any
 type of business entity in unstructured text. You can use the
 service, for example, to automatically extract the context from

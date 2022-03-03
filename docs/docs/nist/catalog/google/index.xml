@@ -183,7 +183,17 @@ outcome from your tabular data.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Auto ML image is an image recognition software used to analyze
+images and pull data from key aspects of said picture.  this will
+train an ai to take those aspects from a picture and use recurisve
+programing to highlights the same aspects in other pictures.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Auto ML image is an image recognition software used to analyze
 images and pull data from key aspects of said picture.  this will
 train an ai to take those aspects from a picture and use recurisve
@@ -209,7 +219,17 @@ programing to highlights the same aspects in other pictures.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;AutoML uses machine learning to analyze the content of tabular data.
+You can use AutoML to train an ML model to use regression to find a
+numeric value, or use classification to predict a categorical
+outcome from your tabular data.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;AutoML uses machine learning to analyze the content of tabular data.
 You can use AutoML to train an ML model to use regression to find a
 numeric value, or use classification to predict a categorical
@@ -235,7 +255,14 @@ outcome from your tabular data.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Auto ML text uses machine learning to analyze the stucture and meaning of text. it extracts the information from authors and organizes the data. uses specific means of implementation such as classification, entity extraction, and segment analysis&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Auto ML text uses machine learning to analyze the stucture and meaning of text. it extracts the information from authors and organizes the data. uses specific means of implementation such as classification, entity extraction, and segment analysis&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;
@@ -258,7 +285,14 @@ outcome from your tabular data.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Auto ML translation will automatically translate queries that are specific to a user-inputed domains. These are cutom translation models.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Auto ML translation will automatically translate queries that are specific to a user-inputed domains. These are cutom translation models.&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;
@@ -281,7 +315,14 @@ outcome from your tabular data.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Google vertex AI is a pretrained api service that allows the user to depoly pretrained ml models faster and more efficently&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Google vertex AI is a pretrained api service that allows the user to depoly pretrained ml models faster and more efficently&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;

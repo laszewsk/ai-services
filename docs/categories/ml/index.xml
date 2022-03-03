@@ -23,7 +23,14 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Machine Learning Platform for AI provides end-to-end machine learning services, including data processing, feature engineering, model training, model prediction, and model evaluation. Machine Learning Platform for AI combines all of these services to make AI more accessible than ever.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Machine Learning Platform for AI provides end-to-end machine learning services, including data processing, feature engineering, model training, model prediction, and model evaluation. Machine Learning Platform for AI combines all of these services to make AI more accessible than ever.&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;
@@ -46,7 +53,21 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Levering its leading natural language processing technology and massive e-commerce
+data, Alibaba Translate has developed a deep neural network translation (NMT)
+system based on the attention mechanism. At present, the system has been widely
+used in various e-commerce-linked services for basic data fields, including SEO,
+searches, product titles, product details, product comments, instant messaging, and risk control.
+Alibaba Translate helps resolve all language barriers for global websites and software.
+In addition to tiered discounts, buyers of resource packages now can invoke the
+system to translate 1 million characters free of charge each month.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Levering its leading natural language processing technology and massive e-commerce
 data, Alibaba Translate has developed a deep neural network translation (NMT)
 system based on the attention mechanism. At present, the system has been widely

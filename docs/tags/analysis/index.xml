@@ -22,7 +22,18 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Microsoft Genomics offers a cloud implementation of the
+Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
+for secondary analysis.&lt;/p&gt;
+&lt;p&gt;The service is ISO-certified and compliant with HIPAA regulations
+and offers price predictability for your genome sequencing needs.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Microsoft Genomics offers a cloud implementation of the
 Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
 for secondary analysis.&lt;/p&gt;

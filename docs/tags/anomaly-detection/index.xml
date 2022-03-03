@@ -23,7 +23,20 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Anomaly Detection is an AI service
+that enables developers to more easily build business-specific
+anomaly detection models that flag critical incidents, resulting in
+faster time to detection and resolution.  Specialized APIs and
+automated model selection simplify training and deploying anomaly
+detection models to applications and operations, all without data
+science expertise.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Oracle Cloud Infrastructure (OCI) Anomaly Detection is an AI service
 that enables developers to more easily build business-specific
 anomaly detection models that flag critical incidents, resulting in

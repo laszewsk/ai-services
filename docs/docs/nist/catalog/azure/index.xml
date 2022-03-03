@@ -279,7 +279,15 @@ efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;A family of AI services that accelerate development of solutions for
+common business processes.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;A family of AI services that accelerate development of solutions for
 common business processes.&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
@@ -303,7 +311,18 @@ common business processes.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Azure Machine Learning is a cloud service for accelerating and
+managing the machine learning project lifecycle.  Machine learning
+professionals, data scientists, and engineers can use it in their
+day-to-day workflows to train and deploy models, and even to manage
+MLOps.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Azure Machine Learning is a cloud service for accelerating and
 managing the machine learning project lifecycle.  Machine learning
 professionals, data scientists, and engineers can use it in their
@@ -330,7 +349,17 @@ MLOps.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Develop enterprise-grade conversational AI experiences while
+maintaining control of your data.  Build multilingual and multimodal
+bots for any scenario from sales to customer support and employee
+productivity.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Develop enterprise-grade conversational AI experiences while
 maintaining control of your data.  Build multilingual and multimodal
 bots for any scenario from sales to customer support and employee
@@ -356,7 +385,24 @@ productivity.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Azure Cognitive Search is the only cloud search service with
+built-in AI capabilities that enrich all types of information to
+help you identify and explore relevant content at scale.  Use
+cognitive skills for vision, language and speech or use custom
+machine learning models to uncover insights from all types of
+content.&lt;/p&gt;
+&lt;p&gt;Azure Cognitive Search also offers semantic search capability, which
+uses advanced machine learning techniques to understand user intent
+and contextually rank the most relevant search results.  Spend more
+time innovating and less time maintaining a complex cloud search
+solution.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Azure Cognitive Search is the only cloud search service with
 built-in AI capabilities that enrich all types of information to
 help you identify and explore relevant content at scale.  Use
@@ -389,7 +435,14 @@ solution.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;
@@ -412,7 +465,18 @@ solution.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Microsoft Genomics offers a cloud implementation of the
+Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
+for secondary analysis.&lt;/p&gt;
+&lt;p&gt;The service is ISO-certified and compliant with HIPAA regulations
+and offers price predictability for your genome sequencing needs.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Microsoft Genomics offers a cloud implementation of the
 Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
 for secondary analysis.&lt;/p&gt;
@@ -439,7 +503,16 @@ and offers price predictability for your genome sequencing needs.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Low-code AI development platform for intelligent control systems
+Speed the creation of AI-powered automation to improve production
+efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Low-code AI development platform for intelligent control systems
 Speed the creation of AI-powered automation to improve production
 efficiency and reduce downtime—without requiring data science.&lt;/p&gt;

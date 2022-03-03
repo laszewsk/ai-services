@@ -22,7 +22,19 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;SAP AI Core is a service in the SAP Business Technology Platform
+which is designed to handle the execution and operations of your AI
+assets in a standardized, scalable, and hyperscaler-agnostic way. It
+provides seamless integration with your SAP solutions. Any AI
+function can be easily realized using open-source frameworks.  SAP
+AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;SAP AI Core is a service in the SAP Business Technology Platform
 which is designed to handle the execution and operations of your AI
 assets in a standardized, scalable, and hyperscaler-agnostic way. It
@@ -50,7 +62,14 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;SAP AI Launchpad is a multitenant software as a service (SaaS) application in SAP Business Technology Platform. Customers and partners can use SAP AI Launchpad to manage AI use cases (scenarios) across multiple instances of AI runtimes (such as SAP AI Core).&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;SAP AI Launchpad is a multitenant software as a service (SaaS) application in SAP Business Technology Platform. Customers and partners can use SAP AI Launchpad to manage AI use cases (scenarios) across multiple instances of AI runtimes (such as SAP AI Core).&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;
@@ -73,7 +92,20 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Business Entity Recognition helps you to detect and highlight any
+type of business entity in unstructured text. You can use the
+service, for example, to automatically extract the context from
+incoming emails with invoice inquiries, automating recurring tasks
+associated with answering queries about the status and payment of
+invoices. Business Entity Recognition is part of the SAP AI Business
+Services portfolio.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Business Entity Recognition helps you to detect and highlight any
 type of business entity in unstructured text. You can use the
 service, for example, to automatically extract the context from
@@ -102,7 +134,17 @@ Services portfolio.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;SAP Conversational AI is a collection of natural language processing
+services. As the conversational AI layer of SAP Business Technology
+Platform, it enables users to build and monitor intelligent chatbots
+in one interface to automate tasks and workflows.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;SAP Conversational AI is a collection of natural language processing
 services. As the conversational AI layer of SAP Business Technology
 Platform, it enables users to build and monitor intelligent chatbots
@@ -128,7 +170,21 @@ in one interface to automate tasks and workflows.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Document Classification helps you to apply machine learning to
+automate the management and processing of large amounts of business
+documents. With customized classification models, you can use the
+service in a wide range of business scenarios and adapt it to your
+special requirements. Use the service in critical business processes
+such as enterprise mail inbox processing, contract management and
+invoice processing. Document Classification is part of the SAP AI
+Business Services portfolio.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Document Classification helps you to apply machine learning to
 automate the management and processing of large amounts of business
 documents. With customized classification models, you can use the

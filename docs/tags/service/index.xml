@@ -22,7 +22,17 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Develop enterprise-grade conversational AI experiences while
+maintaining control of your data.  Build multilingual and multimodal
+bots for any scenario from sales to customer support and employee
+productivity.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Develop enterprise-grade conversational AI experiences while
 maintaining control of your data.  Build multilingual and multimodal
 bots for any scenario from sales to customer support and employee
@@ -48,7 +58,14 @@ productivity.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;

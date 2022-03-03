@@ -23,7 +23,17 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;SAP Conversational AI is a collection of natural language processing
+services. As the conversational AI layer of SAP Business Technology
+Platform, it enables users to build and monitor intelligent chatbots
+in one interface to automate tasks and workflows.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;SAP Conversational AI is a collection of natural language processing
 services. As the conversational AI layer of SAP Business Technology
 Platform, it enables users to build and monitor intelligent chatbots
@@ -49,7 +59,14 @@ in one interface to automate tasks and workflows.&lt;/p&gt;
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Oracle Digital Assistant is an AI service that offers prebuilt skills and templates to create conversational experiences for your business applications and customers through text, chat, and voice interfaces. Application owners can easily get started with prebuilt skills to provide chatbot functionality to business users. Developers can build on the library of templates and create their own custom skills to automate the customer experiences.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Oracle Digital Assistant is an AI service that offers prebuilt skills and templates to create conversational experiences for your business applications and customers through text, chat, and voice interfaces. Application owners can easily get started with prebuilt skills to provide chatbot functionality to business users. Developers can build on the library of templates and create their own custom skills to automate the customer experiences.&lt;/p&gt;
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 &lt;p&gt;unknown&lt;/p&gt;

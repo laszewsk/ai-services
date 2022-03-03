@@ -23,7 +23,21 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Data Labeling is a service for
+building labeled datasets to more accurately train AI and machine
+learning models. With OCI Data Labeling, developers and data
+scientists assemble data, create and browse datasets, and apply
+labels to data records through user interfaces and public APIs. The
+labeled datasets can be exported for model development across
+Oracle&amp;rsquo;s AI and data science services for a seamless model-building
+experience.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Oracle Cloud Infrastructure (OCI) Data Labeling is a service for
 building labeled datasets to more accurately train AI and machine
 learning models. With OCI Data Labeling, developers and data

@@ -23,7 +23,16 @@
       <description>
         
         
-        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Image Search allows your users to search by image based on image similarities.
+Image Search uses deep learning and machine vision to capture characteristics of
+images and then search for images based on the captured information.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Image Search allows your users to search by image based on image similarities.
 Image Search uses deep learning and machine vision to capture characteristics of
 images and then search for images based on the captured information.&lt;/p&gt;
