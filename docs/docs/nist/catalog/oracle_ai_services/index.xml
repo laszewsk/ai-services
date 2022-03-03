@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – AWS</title>
-    <link>/docs/nist/catalog/oracle_ai_services/</link>
+    <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/</link>
     <description>Recent content in AWS on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/nist/catalog/oracle_ai_services/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Oracle Anomaly Detection</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@ science expertise.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Data Labeling</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</guid>
       <description>
         
         
@@ -74,10 +74,10 @@ experience.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Speech</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
       <description>
         
         
@@ -97,10 +97,10 @@ experience.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Vision</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
       <description>
         
         
@@ -127,10 +127,10 @@ products or shipments.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_anomaly/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_anomaly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_anomaly/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_anomaly/</guid>
       <description>
         
         
@@ -167,10 +167,10 @@ science expertise.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant/</guid>
       <description>
         
         
@@ -202,10 +202,10 @@ science expertise.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_labeling/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_labeling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_labeling/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_labeling/</guid>
       <description>
         
         
@@ -243,10 +243,10 @@ experience.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_speech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_speech/</guid>
       <description>
         
         
@@ -272,10 +272,10 @@ experience.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision/</guid>
       <description>
         
         
@@ -313,10 +313,10 @@ products or shipments.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Digital Assistant</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</guid>
       <description>
         
         

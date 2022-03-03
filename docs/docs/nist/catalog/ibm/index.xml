@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – IBM</title>
-    <link>/docs/nist/catalog/ibm/</link>
+    <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/</link>
     <description>Recent content in IBM on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/nist/catalog/ibm/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_communication_monitoring/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_communication_monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_communication_monitoring/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_communication_monitoring/</guid>
       <description>
         
         
@@ -80,10 +80,10 @@ further information please visit:
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson/</guid>
       <description>
         
         
@@ -123,10 +123,10 @@ online via the entity explorer.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_knowledge_studio/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_knowledge_studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_knowledge_studio/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_knowledge_studio/</guid>
       <description>
         
         
@@ -163,10 +163,10 @@ Explorer.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_language_translator/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_language_translator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_language_translator/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_language_translator/</guid>
       <description>
         
         
@@ -202,10 +202,10 @@ chatbots, what will you build?&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_machine_learning/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_machine_learning/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_machine_learning/</guid>
       <description>
         
         
@@ -231,10 +231,10 @@ chatbots, what will you build?&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_natural_language_understanding/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_natural_language_understanding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_natural_language_understanding/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_natural_language_understanding/</guid>
       <description>
         
         
@@ -270,10 +270,10 @@ with Watson NLU.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_speech_to_text/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_speech_to_text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_speech_to_text/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_speech_to_text/</guid>
       <description>
         
         
@@ -310,10 +310,10 @@ many others.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_statum_kpi/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_statum_kpi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_statum_kpi/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_statum_kpi/</guid>
       <description>
         
         
@@ -358,10 +358,10 @@ day. Daytime support responses will be done during standard business hours (M-F
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_text_to_speech/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_text_to_speech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_text_to_speech/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_text_to_speech/</guid>
       <description>
         
         
@@ -400,10 +400,10 @@ home-automation solutions.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_tone_analyzer/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_tone_analyzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_tone_analyzer/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_tone_analyzer/</guid>
       <description>
         
         
@@ -443,10 +443,10 @@ styles (analytical, confident and tentative) from text.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_assistant/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_assistant/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_assistant/</guid>
       <description>
         
         
@@ -484,10 +484,10 @@ your apps and users, and deploy scalable, cost effective solutions.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_discovery/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_discovery/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_discovery/</guid>
       <description>
         
         
@@ -522,10 +522,10 @@ to eliminate the need for manual filtering of results.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog/</guid>
       <description>
         
         
@@ -558,10 +558,10 @@ access to ensure appropriate use.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_openscale/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_openscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_openscale/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_openscale/</guid>
       <description>
         
         
@@ -593,10 +593,10 @@ access to ensure appropriate use.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_studio/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_studio/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_studio/</guid>
       <description>
         
         
@@ -631,10 +631,10 @@ graphical canvas, or automatically build models.&lt;/p&gt;
     
     <item>
       <title>Docs: Communication Monitoring</title>
-      <link>/docs/nist/catalog/ibm/ibm_communication_monitoring-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_communication_monitoring-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_communication_monitoring-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_communication_monitoring-h/</guid>
       <description>
         
         
@@ -686,10 +686,10 @@ further information please visit:
     
     <item>
       <title>Docs: Ibm Match 360 With Watson</title>
-      <link>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson-h/</guid>
       <description>
         
         
@@ -718,10 +718,10 @@ online via the entity explorer.&lt;/p&gt;
     
     <item>
       <title>Docs: Knowledge Studio</title>
-      <link>/docs/nist/catalog/ibm/ibm_knowledge_studio-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_knowledge_studio-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_knowledge_studio-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_knowledge_studio-h/</guid>
       <description>
         
         
@@ -747,10 +747,10 @@ Explorer.&lt;/p&gt;
     
     <item>
       <title>Docs: Language Translator</title>
-      <link>/docs/nist/catalog/ibm/ibm_language_translator-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_language_translator-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_language_translator-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_language_translator-h/</guid>
       <description>
         
         
@@ -775,10 +775,10 @@ chatbots, what will you build?&lt;/p&gt;
     
     <item>
       <title>Docs: Machine Learning</title>
-      <link>/docs/nist/catalog/ibm/ibm_machine_learning-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_machine_learning-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_machine_learning-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_machine_learning-h/</guid>
       <description>
         
         
@@ -798,10 +798,10 @@ chatbots, what will you build?&lt;/p&gt;
     
     <item>
       <title>Docs: Natural Language Understanding</title>
-      <link>/docs/nist/catalog/ibm/ibm_natural_language_understanding-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_natural_language_understanding-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_natural_language_understanding-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_natural_language_understanding-h/</guid>
       <description>
         
         
@@ -826,10 +826,10 @@ with Watson NLU.&lt;/p&gt;
     
     <item>
       <title>Docs: Speech To Text</title>
-      <link>/docs/nist/catalog/ibm/ibm_speech_to_text-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_speech_to_text-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_speech_to_text-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_speech_to_text-h/</guid>
       <description>
         
         
@@ -855,10 +855,10 @@ many others.&lt;/p&gt;
     
     <item>
       <title>Docs: Statum Kpi</title>
-      <link>/docs/nist/catalog/ibm/ibm_statum_kpi-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_statum_kpi-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_statum_kpi-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_statum_kpi-h/</guid>
       <description>
         
         
@@ -892,10 +892,10 @@ day. Daytime support responses will be done during standard business hours (M-F
     
     <item>
       <title>Docs: Text To Speech</title>
-      <link>/docs/nist/catalog/ibm/ibm_text_to_speech-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_text_to_speech-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_text_to_speech-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_text_to_speech-h/</guid>
       <description>
         
         
@@ -923,10 +923,10 @@ home-automation solutions.&lt;/p&gt;
     
     <item>
       <title>Docs: Tone Analyzer</title>
-      <link>/docs/nist/catalog/ibm/ibm_tone_analyzer-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_tone_analyzer-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_tone_analyzer-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_tone_analyzer-h/</guid>
       <description>
         
         
@@ -955,10 +955,10 @@ styles (analytical, confident and tentative) from text.&lt;/p&gt;
     
     <item>
       <title>Docs: Watson Assistant</title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_assistant-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_assistant-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_assistant-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_assistant-h/</guid>
       <description>
         
         
@@ -985,10 +985,10 @@ your apps and users, and deploy scalable, cost effective solutions.&lt;/p&gt;
     
     <item>
       <title>Docs: Watson Discovery</title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_discovery-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_discovery-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_discovery-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_discovery-h/</guid>
       <description>
         
         
@@ -1012,10 +1012,10 @@ to eliminate the need for manual filtering of results.&lt;/p&gt;
     
     <item>
       <title>Docs: Watson Knowledge Catalog</title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog-h/</guid>
       <description>
         
         
@@ -1037,10 +1037,10 @@ access to ensure appropriate use.&lt;/p&gt;
     
     <item>
       <title>Docs: Watson Openscale</title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_openscale-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_openscale-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_openscale-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_openscale-h/</guid>
       <description>
         
         
@@ -1061,10 +1061,10 @@ it&#39;&amp;rsquo;s lifecycle, and adapts and governs AI in changing business si
     
     <item>
       <title>Docs: Watson Studio</title>
-      <link>/docs/nist/catalog/ibm/ibm_watson_studio-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_studio-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/ibm/ibm_watson_studio-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/ibm/ibm_watson_studio-h/</guid>
       <description>
         
         

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – integrate infrastructure</title>
-    <link>/tags/integrate-infrastructure/</link>
+    <link>https://laszewsk.github.io/ai-services/tags/integrate-infrastructure/</link>
     <description>Recent content in integrate infrastructure on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/tags/integrate-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/tags/integrate-infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: SAP AI Core</title>
-      <link>/docs/nist/catalog/sap/sap_ai_core-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_core-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core-h/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – Azure</title>
-    <link>/docs/nist/catalog/azure/</link>
+    <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/</link>
     <description>Recent content in Azure on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/nist/catalog/azure/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/applied_ai_services/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/applied_ai_services/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services/</guid>
       <description>
         
         
@@ -50,10 +50,10 @@
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/azure_machine_learning/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/azure_machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/azure_machine_learning/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/azure_machine_learning/</guid>
       <description>
         
         
@@ -88,10 +88,10 @@ MLOps.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/bot_services/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/bot_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/bot_services/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/bot_services/</guid>
       <description>
         
         
@@ -125,10 +125,10 @@ productivity.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/cognitive_search/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_search/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search/</guid>
       <description>
         
         
@@ -169,10 +169,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/cognitive_services/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_services/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services/</guid>
       <description>
         
         
@@ -198,10 +198,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/microsoft_genomics/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/microsoft_genomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/microsoft_genomics/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/microsoft_genomics/</guid>
       <description>
         
         
@@ -236,10 +236,10 @@ and offers price predictability for your genome sequencing needs.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/azure/project_bonsai/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/project_bonsai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/project_bonsai/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/project_bonsai/</guid>
       <description>
         
         
@@ -272,10 +272,10 @@ efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
     
     <item>
       <title>Docs: Applied AI Services</title>
-      <link>/docs/nist/catalog/azure/applied_ai_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/applied_ai_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services-h/</guid>
       <description>
         
         
@@ -296,10 +296,10 @@ common business processes.&lt;/p&gt;
     
     <item>
       <title>Docs: Azure Machine Learning</title>
-      <link>/docs/nist/catalog/azure/azure_machine_learning-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/azure_machine_learning-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/azure_machine_learning-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/azure_machine_learning-h/</guid>
       <description>
         
         
@@ -323,10 +323,10 @@ MLOps.&lt;/p&gt;
     
     <item>
       <title>Docs: Bot Services</title>
-      <link>/docs/nist/catalog/azure/bot_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/bot_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/bot_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/bot_services-h/</guid>
       <description>
         
         
@@ -349,10 +349,10 @@ productivity.&lt;/p&gt;
     
     <item>
       <title>Docs: Cognitive Search</title>
-      <link>/docs/nist/catalog/azure/cognitive_search-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_search-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search-h/</guid>
       <description>
         
         
@@ -382,10 +382,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: Cognitive Services</title>
-      <link>/docs/nist/catalog/azure/cognitive_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services-h/</guid>
       <description>
         
         
@@ -405,10 +405,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: Microsoft Genomics</title>
-      <link>/docs/nist/catalog/azure/microsoft_genomics-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/microsoft_genomics-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/microsoft_genomics-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/microsoft_genomics-h/</guid>
       <description>
         
         
@@ -432,10 +432,10 @@ and offers price predictability for your genome sequencing needs.&lt;/p&gt;
     
     <item>
       <title>Docs: Project Bonsai</title>
-      <link>/docs/nist/catalog/azure/project_bonsai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/project_bonsai-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/project_bonsai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/project_bonsai-h/</guid>
       <description>
         
         

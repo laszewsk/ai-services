@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – document classification</title>
-    <link>/tags/document-classification/</link>
+    <link>https://laszewsk.github.io/ai-services/tags/document-classification/</link>
     <description>Recent content in document classification on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/tags/document-classification/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/tags/document-classification/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: SAP Document Classification</title>
-      <link>/docs/nist/catalog/sap/sap_document_classification-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_document_classification-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification-h/</guid>
       <description>
         
         

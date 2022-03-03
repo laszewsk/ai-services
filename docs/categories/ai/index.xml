@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – AI</title>
-    <link>/categories/ai/</link>
+    <link>https://laszewsk.github.io/ai-services/categories/ai/</link>
     <description>Recent content in AI on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Amazon Augmented AI</title>
-      <link>/docs/nist/catalog/aws/amazon-augmented-ai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-augmented-ai-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-augmented-ai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-augmented-ai-h/</guid>
       <description>
         
         
@@ -39,10 +39,10 @@
     
     <item>
       <title>Docs: Amazon CodeGuru</title>
-      <link>/docs/nist/catalog/aws/amazon-codeguru-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-codeguru-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-codeguru-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-codeguru-h/</guid>
       <description>
         
         
@@ -62,10 +62,10 @@
     
     <item>
       <title>Docs: Amazon Comprehend</title>
-      <link>/docs/nist/catalog/aws/amazon-comprehend-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-comprehend-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-comprehend-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-comprehend-h/</guid>
       <description>
         
         
@@ -85,10 +85,10 @@
     
     <item>
       <title>Docs: Amazon DevOps Guru</title>
-      <link>/docs/nist/catalog/aws/amazon-devops-guru-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-devops-guru-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-devops-guru-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-devops-guru-h/</guid>
       <description>
         
         
@@ -108,10 +108,10 @@
     
     <item>
       <title>Docs: Amazon Elastic Inference</title>
-      <link>/docs/nist/catalog/aws/amazon-elastic-inference-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-elastic-inference-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-elastic-inference-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-elastic-inference-h/</guid>
       <description>
         
         
@@ -131,10 +131,10 @@
     
     <item>
       <title>Docs: Amazon Forecast</title>
-      <link>/docs/nist/catalog/aws/amazon-forecast-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-forecast-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-forecast-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-forecast-h/</guid>
       <description>
         
         
@@ -154,10 +154,10 @@
     
     <item>
       <title>Docs: Amazon Fraud Detector</title>
-      <link>/docs/nist/catalog/aws/amazon-fraud-detector-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-fraud-detector-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-fraud-detector-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-fraud-detector-h/</guid>
       <description>
         
         
@@ -177,10 +177,10 @@
     
     <item>
       <title>Docs: Amazon HealthLake</title>
-      <link>/docs/nist/catalog/aws/amazon-healthlake-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-healthlake-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-healthlake-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-healthlake-h/</guid>
       <description>
         
         
@@ -200,10 +200,10 @@
     
     <item>
       <title>Docs: Amazon Kendra</title>
-      <link>/docs/nist/catalog/aws/amazon-kendra-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-kendra-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-kendra-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-kendra-h/</guid>
       <description>
         
         
@@ -223,10 +223,10 @@
     
     <item>
       <title>Docs: Amazon Lex</title>
-      <link>/docs/nist/catalog/aws/amazon-lex-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lex-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-lex-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lex-h/</guid>
       <description>
         
         
@@ -246,10 +246,10 @@
     
     <item>
       <title>Docs: Amazon Lookout for Equipment</title>
-      <link>/docs/nist/catalog/aws/amazon-lookout-for-equipment-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lookout-for-equipment-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-lookout-for-equipment-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lookout-for-equipment-h/</guid>
       <description>
         
         
@@ -269,10 +269,10 @@
     
     <item>
       <title>Docs: Amazon Lookout for Metrics</title>
-      <link>/docs/nist/catalog/aws/amazon-lookout-for-metrics-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lookout-for-metrics-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-lookout-for-metrics-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lookout-for-metrics-h/</guid>
       <description>
         
         
@@ -292,10 +292,10 @@
     
     <item>
       <title>Docs: Amazon Lookout for Vision</title>
-      <link>/docs/nist/catalog/aws/amazon-lookout-for-vision-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lookout-for-vision-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-lookout-for-vision-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-lookout-for-vision-h/</guid>
       <description>
         
         
@@ -315,10 +315,10 @@
     
     <item>
       <title>Docs: Amazon Monitron</title>
-      <link>/docs/nist/catalog/aws/amazon-monitron-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-monitron-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-monitron-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-monitron-h/</guid>
       <description>
         
         
@@ -338,10 +338,10 @@
     
     <item>
       <title>Docs: Amazon Personalize</title>
-      <link>/docs/nist/catalog/aws/amazon-personalize-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-personalize-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-personalize-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-personalize-h/</guid>
       <description>
         
         
@@ -361,10 +361,10 @@
     
     <item>
       <title>Docs: Amazon Polly</title>
-      <link>/docs/nist/catalog/aws/amazon-polly-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-polly-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-polly-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-polly-h/</guid>
       <description>
         
         
@@ -384,10 +384,10 @@
     
     <item>
       <title>Docs: Amazon Rekognition</title>
-      <link>/docs/nist/catalog/aws/amazon-rekognition-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-rekognition-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-rekognition-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-rekognition-h/</guid>
       <description>
         
         
@@ -407,10 +407,10 @@
     
     <item>
       <title>Docs: Amazon SageMaker Ground Truth</title>
-      <link>/docs/nist/catalog/aws/amazon-sagemaker-ground-truth-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-sagemaker-ground-truth-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-sagemaker-ground-truth-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-sagemaker-ground-truth-h/</guid>
       <description>
         
         
@@ -430,10 +430,10 @@
     
     <item>
       <title>Docs: Amazon SageMaker</title>
-      <link>/docs/nist/catalog/aws/amazon-sagemaker-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-sagemaker-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-sagemaker-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-sagemaker-h/</guid>
       <description>
         
         
@@ -453,10 +453,10 @@
     
     <item>
       <title>Docs: Amazon Textract</title>
-      <link>/docs/nist/catalog/aws/amazon-textract-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-textract-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-textract-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-textract-h/</guid>
       <description>
         
         
@@ -476,10 +476,10 @@
     
     <item>
       <title>Docs: Amazon Transcribe</title>
-      <link>/docs/nist/catalog/aws/amazon-transcribe-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-transcribe-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-transcribe-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-transcribe-h/</guid>
       <description>
         
         
@@ -499,10 +499,10 @@
     
     <item>
       <title>Docs: Amazon Translate</title>
-      <link>/docs/nist/catalog/aws/amazon-translate-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-translate-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/amazon-translate-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/amazon-translate-h/</guid>
       <description>
         
         
@@ -522,10 +522,10 @@
     
     <item>
       <title>Docs: Apache MXNet on AWS</title>
-      <link>/docs/nist/catalog/aws/apache-mxnet-on-aws-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/apache-mxnet-on-aws-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/apache-mxnet-on-aws-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/apache-mxnet-on-aws-h/</guid>
       <description>
         
         
@@ -545,10 +545,10 @@
     
     <item>
       <title>Docs: AWS Deep Learning AMIs</title>
-      <link>/docs/nist/catalog/aws/aws-deep-learning-amis-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deep-learning-amis-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/aws-deep-learning-amis-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deep-learning-amis-h/</guid>
       <description>
         
         
@@ -568,10 +568,10 @@
     
     <item>
       <title>Docs: AWS DeepComposer</title>
-      <link>/docs/nist/catalog/aws/aws-deepcomposer-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deepcomposer-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/aws-deepcomposer-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deepcomposer-h/</guid>
       <description>
         
         
@@ -591,10 +591,10 @@
     
     <item>
       <title>Docs: AWS DeepLens</title>
-      <link>/docs/nist/catalog/aws/aws-deeplens-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deeplens-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/aws-deeplens-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deeplens-h/</guid>
       <description>
         
         
@@ -614,10 +614,10 @@
     
     <item>
       <title>Docs: AWS DeepRacer</title>
-      <link>/docs/nist/catalog/aws/aws-deepracer-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deepracer-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/aws-deepracer-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-deepracer-h/</guid>
       <description>
         
         
@@ -637,10 +637,10 @@
     
     <item>
       <title>Docs: AWS Inferentia</title>
-      <link>/docs/nist/catalog/aws/aws-inferentia-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-inferentia-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/aws-inferentia-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-inferentia-h/</guid>
       <description>
         
         
@@ -660,10 +660,10 @@
     
     <item>
       <title>Docs: AWS Panorama</title>
-      <link>/docs/nist/catalog/aws/aws-panorama-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-panorama-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/aws-panorama-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/aws-panorama-h/</guid>
       <description>
         
         
@@ -683,10 +683,10 @@
     
     <item>
       <title>Docs: TensorFlow on AWS</title>
-      <link>/docs/nist/catalog/aws/tensorflow-on-aws-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/tensorflow-on-aws-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/aws/tensorflow-on-aws-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/aws/tensorflow-on-aws-h/</guid>
       <description>
         
         
@@ -706,10 +706,10 @@
     
     <item>
       <title>Docs: SAP AI Core</title>
-      <link>/docs/nist/catalog/sap/sap_ai_core-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_core-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core-h/</guid>
       <description>
         
         
@@ -734,10 +734,10 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP AI Launchpad</title>
-      <link>/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
       <description>
         
         
@@ -757,10 +757,10 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP Business Entity Recognition</title>
-      <link>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_business_entity_recognition-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_business_entity_recognition-h/</guid>
       <description>
         
         
@@ -786,10 +786,10 @@ Services portfolio.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP Conversational AI</title>
-      <link>/docs/nist/catalog/sap/sap_conversational_ai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_conversational_ai-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_conversational_ai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_conversational_ai-h/</guid>
       <description>
         
         
@@ -812,10 +812,10 @@ in one interface to automate tasks and workflows.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP Document Classification</title>
-      <link>/docs/nist/catalog/sap/sap_document_classification-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_document_classification-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification-h/</guid>
       <description>
         
         
@@ -842,10 +842,10 @@ Business Services portfolio.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Anomaly Detection</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</guid>
       <description>
         
         
@@ -871,10 +871,10 @@ science expertise.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Data Labeling</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</guid>
       <description>
         
         
@@ -901,10 +901,10 @@ experience.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Speech</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
       <description>
         
         
@@ -924,10 +924,10 @@ experience.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Vision</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
       <description>
         
         
@@ -954,10 +954,10 @@ products or shipments.&lt;/p&gt;
     
     <item>
       <title>Docs: Intelligent Speech Interaction</title>
-      <link>/docs/nist/catalog/alibaba/alibaba_intelligent_speech_interaction-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/alibaba/alibaba_intelligent_speech_interaction-h/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/alibaba/alibaba_intelligent_speech_interaction-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/alibaba/alibaba_intelligent_speech_interaction-h/</guid>
       <description>
         
         
@@ -983,10 +983,10 @@ Korean, French and Indonesian, and please stay tuned for other languages.&lt;/p&
     
     <item>
       <title>Docs: Machine Learning Platform for AI</title>
-      <link>/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</guid>
       <description>
         
         
@@ -1006,10 +1006,10 @@ Korean, French and Indonesian, and please stay tuned for other languages.&lt;/p&
     
     <item>
       <title>Docs: Image Search</title>
-      <link>/docs/nist/catalog/alibaba/alibaba_image_search-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/alibaba/alibaba_image_search-h/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/alibaba/alibaba_image_search-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/alibaba/alibaba_image_search-h/</guid>
       <description>
         
         
@@ -1031,10 +1031,10 @@ images and then search for images based on the captured information.&lt;/p&gt;
     
     <item>
       <title>Docs: Applied AI Services</title>
-      <link>/docs/nist/catalog/azure/applied_ai_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/applied_ai_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services-h/</guid>
       <description>
         
         
@@ -1055,10 +1055,10 @@ common business processes.&lt;/p&gt;
     
     <item>
       <title>Docs: Azure Machine Learning</title>
-      <link>/docs/nist/catalog/azure/azure_machine_learning-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/azure_machine_learning-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/azure_machine_learning-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/azure_machine_learning-h/</guid>
       <description>
         
         
@@ -1082,10 +1082,10 @@ MLOps.&lt;/p&gt;
     
     <item>
       <title>Docs: Bot Services</title>
-      <link>/docs/nist/catalog/azure/bot_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/bot_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/bot_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/bot_services-h/</guid>
       <description>
         
         
@@ -1108,10 +1108,10 @@ productivity.&lt;/p&gt;
     
     <item>
       <title>Docs: Cognitive Search</title>
-      <link>/docs/nist/catalog/azure/cognitive_search-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_search-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search-h/</guid>
       <description>
         
         
@@ -1141,10 +1141,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: Cognitive Services</title>
-      <link>/docs/nist/catalog/azure/cognitive_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services-h/</guid>
       <description>
         
         
@@ -1164,10 +1164,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: Microsoft Genomics</title>
-      <link>/docs/nist/catalog/azure/microsoft_genomics-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/microsoft_genomics-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/microsoft_genomics-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/microsoft_genomics-h/</guid>
       <description>
         
         
@@ -1191,10 +1191,10 @@ and offers price predictability for your genome sequencing needs.&lt;/p&gt;
     
     <item>
       <title>Docs: Project Bonsai</title>
-      <link>/docs/nist/catalog/azure/project_bonsai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/project_bonsai-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/project_bonsai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/project_bonsai-h/</guid>
       <description>
         
         
@@ -1216,10 +1216,10 @@ efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
     
     <item>
       <title>Docs: AutoML image</title>
-      <link>/docs/nist/catalog/google/google_auto_ml_image-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_image-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/google/google_auto_ml_image-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_image-h/</guid>
       <description>
         
         

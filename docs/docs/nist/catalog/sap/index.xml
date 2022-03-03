@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – Oracle</title>
-    <link>/docs/nist/catalog/sap/</link>
+    <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/</link>
     <description>Recent content in Oracle on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/nist/catalog/sap/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: SAP AI Core</title>
-      <link>/docs/nist/catalog/sap/sap_ai_core-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_core-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core-h/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP AI Launchpad</title>
-      <link>/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
       <description>
         
         
@@ -66,10 +66,10 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP Business Entity Recognition</title>
-      <link>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_business_entity_recognition-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_business_entity_recognition-h/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@ Services portfolio.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP Conversational AI</title>
-      <link>/docs/nist/catalog/sap/sap_conversational_ai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_conversational_ai-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_conversational_ai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_conversational_ai-h/</guid>
       <description>
         
         
@@ -121,10 +121,10 @@ in one interface to automate tasks and workflows.&lt;/p&gt;
     
     <item>
       <title>Docs: SAP Document Classification</title>
-      <link>/docs/nist/catalog/sap/sap_document_classification-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification-h/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_document_classification-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification-h/</guid>
       <description>
         
         
@@ -151,10 +151,10 @@ Business Services portfolio.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/sap/sap_ai_core/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_core/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_core/</guid>
       <description>
         
         
@@ -190,10 +190,10 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/sap/sap_ai_launchpad/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_launchpad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_ai_launchpad/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_ai_launchpad/</guid>
       <description>
         
         
@@ -219,10 +219,10 @@ AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/sap/sap_business_entity_recognition/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_business_entity_recognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_business_entity_recognition/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_business_entity_recognition/</guid>
       <description>
         
         
@@ -259,10 +259,10 @@ Services portfolio.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/sap/sap_conversational_ai/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_conversational_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_conversational_ai/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_conversational_ai/</guid>
       <description>
         
         
@@ -296,10 +296,10 @@ in one interface to automate tasks and workflows.&lt;/p&gt;
     
     <item>
       <title>Docs: </title>
-      <link>/docs/nist/catalog/sap/sap_document_classification/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/sap/sap_document_classification/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/sap/sap_document_classification/</guid>
       <description>
         
         

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – deep learning</title>
-    <link>/tags/deep-learning/</link>
+    <link>https://laszewsk.github.io/ai-services/tags/deep-learning/</link>
     <description>Recent content in deep learning on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Oracle Vision</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
       <description>
         
         
@@ -46,10 +46,10 @@ products or shipments.&lt;/p&gt;
     
     <item>
       <title>Docs: Oracle Digital Assistant</title>
-      <link>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</guid>
       <description>
         
         

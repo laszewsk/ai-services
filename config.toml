@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://laszewsk.github.io/ai-services"
 publishDir = "docs"
 title = "Cloud Analytics and AI  Services"
 

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – Cognition</title>
-    <link>/tags/cognition/</link>
+    <link>https://laszewsk.github.io/ai-services/tags/cognition/</link>
     <description>Recent content in Cognition on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Cognitive Search</title>
-      <link>/docs/nist/catalog/azure/cognitive_search-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_search-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_search-h/</guid>
       <description>
         
         
@@ -48,10 +48,10 @@ solution.&lt;/p&gt;
     
     <item>
       <title>Docs: Cognitive Services</title>
-      <link>/docs/nist/catalog/azure/cognitive_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/cognitive_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/cognitive_services-h/</guid>
       <description>
         
         

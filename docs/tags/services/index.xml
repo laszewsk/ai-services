@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Analytics and AI  Services – Services</title>
-    <link>/tags/services/</link>
+    <link>https://laszewsk.github.io/ai-services/tags/services/</link>
     <description>Recent content in Services on Cloud Analytics and AI  Services</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/tags/services/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://laszewsk.github.io/ai-services/tags/services/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Applied AI Services</title>
-      <link>/docs/nist/catalog/azure/applied_ai_services-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/azure/applied_ai_services-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/azure/applied_ai_services-h/</guid>
       <description>
         
         
@@ -39,10 +39,10 @@ common business processes.&lt;/p&gt;
     
     <item>
       <title>Docs: AutoML image</title>
-      <link>/docs/nist/catalog/google/google_auto_ml_image-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_image-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/google/google_auto_ml_image-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_image-h/</guid>
       <description>
         
         
@@ -65,10 +65,10 @@ programing to highlights the same aspects in other pictures.&lt;/p&gt;
     
     <item>
       <title>Docs: AutoML Tabular</title>
-      <link>/docs/nist/catalog/google/google_auto_ml_tabular-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_tabular-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/google/google_auto_ml_tabular-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_tabular-h/</guid>
       <description>
         
         
@@ -91,10 +91,10 @@ outcome from your tabular data.&lt;/p&gt;
     
     <item>
       <title>Docs: AutoML text</title>
-      <link>/docs/nist/catalog/google/google_auto_ml_text-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_text-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/google/google_auto_ml_text-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_auto_ml_text-h/</guid>
       <description>
         
         
@@ -114,10 +114,10 @@ outcome from your tabular data.&lt;/p&gt;
     
     <item>
       <title>Docs: Vertex AI</title>
-      <link>/docs/nist/catalog/google/google_vertex_ai-h/</link>
+      <link>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_vertex_ai-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/nist/catalog/google/google_vertex_ai-h/</guid>
+      <guid>https://laszewsk.github.io/ai-services/docs/nist/catalog/google/google_vertex_ai-h/</guid>
       <description>
         
         
