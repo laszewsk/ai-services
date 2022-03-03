@@ -1,0 +1,339 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – Oracle</title>
+    <link>/docs/nist/catalog/sap/</link>
+    <description>Recent content in Oracle on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/nist/catalog/sap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: SAP AI Core</title>
+      <link>/docs/nist/catalog/sap/sap_ai_core-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_core-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Core is a service in the SAP Business Technology Platform
+which is designed to handle the execution and operations of your AI
+assets in a standardized, scalable, and hyperscaler-agnostic way. It
+provides seamless integration with your SAP solutions. Any AI
+function can be easily realized using open-source frameworks.  SAP
+AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP AI Launchpad</title>
+      <link>/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Launchpad is a multitenant software as a service (SaaS) application in SAP Business Technology Platform. Customers and partners can use SAP AI Launchpad to manage AI use cases (scenarios) across multiple instances of AI runtimes (such as SAP AI Core).&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP Business Entity Recognition</title>
+      <link>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Business Entity Recognition helps you to detect and highlight any
+type of business entity in unstructured text. You can use the
+service, for example, to automatically extract the context from
+incoming emails with invoice inquiries, automating recurring tasks
+associated with answering queries about the status and payment of
+invoices. Business Entity Recognition is part of the SAP AI Business
+Services portfolio.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/Business_Entity_Recognition/SHIP/en-US&#34;&gt;https://help.sap.com/viewer/product/Business_Entity_Recognition/SHIP/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP Conversational AI</title>
+      <link>/docs/nist/catalog/sap/sap_conversational_ai-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_conversational_ai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP Conversational AI is a collection of natural language processing
+services. As the conversational AI layer of SAP Business Technology
+Platform, it enables users to build and monitor intelligent chatbots
+in one interface to automate tasks and workflows.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US&#34;&gt;https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP Document Classification</title>
+      <link>/docs/nist/catalog/sap/sap_document_classification-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_document_classification-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Document Classification helps you to apply machine learning to
+automate the management and processing of large amounts of business
+documents. With customized classification models, you can use the
+service in a wide range of business scenarios and adapt it to your
+special requirements. Use the service in critical business processes
+such as enterprise mail inbox processing, contract management and
+invoice processing. Document Classification is part of the SAP AI
+Business Services portfolio.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/en-US&#34;&gt;https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/sap/sap_ai_core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_core/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;sap-ai-core&#34;&gt;SAP AI Core&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: SAP
+    * Version: unknown
+    * Modified: 2022-02-25
+    * Created: 2022-02-25
+    * &amp;lt;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&amp;gt;
+    * Tags: AI, pipelines, integrate infrastructure, multitenant
+    * Categories: AI
+
+    ## Description
+
+    SAP AI Core is a service in the SAP Business Technology Platform
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;which is designed to handle the execution and operations of your AI
+assets in a standardized, scalable, and hyperscaler-agnostic way. It
+provides seamless integration with your SAP solutions. Any AI
+function can be easily realized using open-source frameworks.  SAP
+AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement
+
+    ## Data
+
+    SAP&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.sap.com/about/agreements/policies.html
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/sap/sap_ai_launchpad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_launchpad/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;sap-ai-launchpad&#34;&gt;SAP AI Launchpad&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Author: SAP&lt;/li&gt;
+&lt;li&gt;Version: unknown&lt;/li&gt;
+&lt;li&gt;Modified: 2022-02-25&lt;/li&gt;
+&lt;li&gt;Created: 2022-02-25&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tags: AI, AI use cases, lifecycle management&lt;/li&gt;
+&lt;li&gt;Categories: AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Launchpad is a multitenant software as a service (SaaS) application in SAP Business Technology Platform. Customers and partners can use SAP AI Launchpad to manage AI use cases (scenarios) across multiple instances of AI runtimes (such as SAP AI Core).&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/sap/sap_business_entity_recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_business_entity_recognition/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;sap-business-entity-recognition&#34;&gt;SAP Business Entity Recognition&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: SAP
+    * Version: unknown
+    * Modified: 2022-02-25
+    * Created: 2022-02-25
+    * &amp;lt;https://help.sap.com/viewer/product/Business_Entity_Recognition/SHIP/en-US&amp;gt;
+    * Tags: AI, text extraction
+    * Categories: AI
+
+    ## Description
+
+    Business Entity Recognition helps you to detect and highlight any
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;type of business entity in unstructured text. You can use the
+service, for example, to automatically extract the context from
+incoming emails with invoice inquiries, automating recurring tasks
+associated with answering queries about the status and payment of
+invoices. Business Entity Recognition is part of the SAP AI Business
+Services portfolio.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement
+
+    ## Data
+
+    SAP&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.sap.com/about/agreements/policies.html
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/sap/sap_conversational_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_conversational_ai/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;sap-conversational-ai&#34;&gt;SAP Conversational AI&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: SAP
+    * Version: unknown
+    * Modified: 2022-02-25
+    * Created: 2022-02-25
+    * &amp;lt;https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US&amp;gt;
+    * Tags: AI, chatbot, NLP
+    * Categories: AI
+
+    ## Description
+
+    SAP Conversational AI is a collection of natural language processing
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;services. As the conversational AI layer of SAP Business Technology
+Platform, it enables users to build and monitor intelligent chatbots
+in one interface to automate tasks and workflows.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement
+
+    ## Data
+
+    SAP&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.sap.com/about/agreements/policies.html
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/sap/sap_document_classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_document_classification/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;sap-document-classification&#34;&gt;SAP Document Classification&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: SAP
+    * Version: unknown
+    * Modified: 2022-02-25
+    * Created: 2022-02-25
+    * &amp;lt;https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/en-US&amp;gt;
+    * Tags: AI, document classification
+    * Categories: AI
+
+    ## Description
+
+    Document Classification helps you to apply machine learning to
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;automate the management and processing of large amounts of business
+documents. With customized classification models, you can use the
+service in a wide range of business scenarios and adapt it to your
+special requirements. Use the service in critical business processes
+such as enterprise mail inbox processing, contract management and
+invoice processing. Document Classification is part of the SAP AI
+Business Services portfolio.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement
+
+    ## Data
+
+    SAP&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.sap.com/about/agreements/policies.html
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

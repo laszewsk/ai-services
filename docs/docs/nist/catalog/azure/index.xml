@@ -1,0 +1,459 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – Azure</title>
+    <link>/docs/nist/catalog/azure/</link>
+    <description>Recent content in Azure on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/nist/catalog/azure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/applied_ai_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/applied_ai_services/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;applied-ai-services&#34;&gt;Applied AI Services&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Azure
+    * Version: unknown
+    * Modified: 22-02-2022
+    * Created: 22-02-2022
+    * &amp;lt;https://docs.microsoft.com/en-us/azure/applied-ai-services/&amp;gt;
+    * Tags: AI, Services
+    * Categories: AI
+
+    ## Description
+
+    A family of AI services that accelerate development of solutions for
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;common business processes.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://azure.microsoft.com/en-us/support/legal/sla/azure-applied-ai-services/v1_0/
+
+    ## Data
+
+    tbd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/azure_machine_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/azure_machine_learning/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;azure-machine-learning&#34;&gt;Azure Machine Learning&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Azure
+    * Version: unknown
+    * Modified: 22-02-2022
+    * Created: 22-02-2022
+    * &amp;lt;https://docs.microsoft.com/en-us/azure/machine-learning/&amp;gt;
+    * Tags: AI, ML
+    * Categories: AI
+
+    ## Description
+
+    Azure Machine Learning is a cloud service for accelerating and
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;managing the machine learning project lifecycle.  Machine learning
+professionals, data scientists, and engineers can use it in their
+day-to-day workflows to train and deploy models, and even to manage
+MLOps.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://azure.microsoft.com/en-us/support/legal/sla/machine-learning-service/v1_0/
+
+    ## Data
+
+    tbd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/bot_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/bot_services/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;bot-services&#34;&gt;Bot Services&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Azure
+    * Version: unknown
+    * Modified: 22-02-2022
+    * Created: 22-02-2022
+    * &amp;lt;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&amp;gt;
+    * Tags: AI, BOT, Service
+    * Categories: AI
+
+    ## Description
+
+    Develop enterprise-grade conversational AI experiences while
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;maintaining control of your data.  Build multilingual and multimodal
+bots for any scenario from sales to customer support and employee
+productivity.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/
+
+    ## Data
+
+    tbd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/cognitive_search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_search/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;cognitive-search&#34;&gt;Cognitive Search&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Azure
+    * Version: unknown
+    * Modified: 22-02-2022
+    * Created: 22-02-2022
+    * &amp;lt;https://docs.microsoft.com/en-us/azure/search/&amp;gt;
+    * Tags: AI, Cognition, Search
+    * Categories: AI
+
+    ## Description
+
+    Azure Cognitive Search is the only cloud search service with
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;built-in AI capabilities that enrich all types of information to
+help you identify and explore relevant content at scale.  Use
+cognitive skills for vision, language and speech or use custom
+machine learning models to uncover insights from all types of
+content.&lt;/p&gt;
+&lt;p&gt;Azure Cognitive Search also offers semantic search capability, which
+uses advanced machine learning techniques to understand user intent
+and contextually rank the most relevant search results.  Spend more
+time innovating and less time maintaining a complex cloud search
+solution.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.azure.cn/en-us/support/sla/search/v1_0/
+
+    ## Data
+
+    tbd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/cognitive_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_services/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;cognitive-services&#34;&gt;Cognitive Services&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Author: Azure&lt;/li&gt;
+&lt;li&gt;Version: unknown&lt;/li&gt;
+&lt;li&gt;Modified: 22-02-2022&lt;/li&gt;
+&lt;li&gt;Created: 22-02-2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/cognitive-services/&#34;&gt;https://docs.microsoft.com/en-us/azure/cognitive-services/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tags: AI, Cognition, Service&lt;/li&gt;
+&lt;li&gt;Categories: AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/cognitive-services/&#34;&gt;https://www.azure.cn/en-us/support/sla/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/microsoft_genomics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/microsoft_genomics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;microsoft-genomics&#34;&gt;Microsoft Genomics&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Azure
+    * Version: unknown
+    * Modified: 22-02-2022
+    * Created: 22-02-2022
+    * &amp;lt;https://docs.microsoft.com/en-us/azure/genomics/&amp;gt;
+    * Tags: AI, Analysis, Cloud
+    * Categories: AI
+
+    ## Description
+
+    Microsoft Genomics offers a cloud implementation of the
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
+for secondary analysis.&lt;/p&gt;
+&lt;p&gt;The service is ISO-certified and compliant with HIPAA regulations
+and offers price predictability for your genome sequencing needs.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://azure.microsoft.com/en-in/support/legal/sla/genomics/v1_0/
+
+    ## Data
+
+    tbd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/azure/project_bonsai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/project_bonsai/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;project-bonsai&#34;&gt;Project Bonsai&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Azure
+    * Version: unknown
+    * Modified: 22-02-2022
+    * Created: 22-02-2022
+    * &amp;lt;https://docs.microsoft.com/en-us/bonsai/&amp;gt;
+    * Tags: AI, Low-code AI
+    * Categories: AI
+
+    ## Description
+
+    Low-code AI development platform for intelligent control systems
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Speed the creation of AI-powered automation to improve production
+efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://docs.microsoft.com/en-us/bonsai/resources/terms-of-use
+
+    ## Data
+
+    tbd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Applied AI Services</title>
+      <link>/docs/nist/catalog/azure/applied_ai_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/applied_ai_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A family of AI services that accelerate development of solutions for
+common business processes.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/applied-ai-services/&#34;&gt;https://docs.microsoft.com/en-us/azure/applied-ai-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/support/legal/sla/azure-applied-ai-services/v1_0/&#34;&gt;https://azure.microsoft.com/en-us/support/legal/sla/azure-applied-ai-services/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Azure Machine Learning</title>
+      <link>/docs/nist/catalog/azure/azure_machine_learning-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/azure_machine_learning-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Azure Machine Learning is a cloud service for accelerating and
+managing the machine learning project lifecycle.  Machine learning
+professionals, data scientists, and engineers can use it in their
+day-to-day workflows to train and deploy models, and even to manage
+MLOps.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/machine-learning/&#34;&gt;https://docs.microsoft.com/en-us/azure/machine-learning/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/support/legal/sla/machine-learning-service/v1_0/&#34;&gt;https://azure.microsoft.com/en-us/support/legal/sla/machine-learning-service/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Bot Services</title>
+      <link>/docs/nist/catalog/azure/bot_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/bot_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Develop enterprise-grade conversational AI experiences while
+maintaining control of your data.  Build multilingual and multimodal
+bots for any scenario from sales to customer support and employee
+productivity.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&#34;&gt;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/&#34;&gt;https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cognitive Search</title>
+      <link>/docs/nist/catalog/azure/cognitive_search-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_search-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Azure Cognitive Search is the only cloud search service with
+built-in AI capabilities that enrich all types of information to
+help you identify and explore relevant content at scale.  Use
+cognitive skills for vision, language and speech or use custom
+machine learning models to uncover insights from all types of
+content.&lt;/p&gt;
+&lt;p&gt;Azure Cognitive Search also offers semantic search capability, which
+uses advanced machine learning techniques to understand user intent
+and contextually rank the most relevant search results.  Spend more
+time innovating and less time maintaining a complex cloud search
+solution.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/search/&#34;&gt;https://docs.microsoft.com/en-us/azure/search/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/search/v1_0/&#34;&gt;https://www.azure.cn/en-us/support/sla/search/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cognitive Services</title>
+      <link>/docs/nist/catalog/azure/cognitive_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/cognitive-services/&#34;&gt;https://docs.microsoft.com/en-us/azure/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/cognitive-services/&#34;&gt;https://www.azure.cn/en-us/support/sla/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Microsoft Genomics</title>
+      <link>/docs/nist/catalog/azure/microsoft_genomics-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/microsoft_genomics-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Microsoft Genomics offers a cloud implementation of the
+Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
+for secondary analysis.&lt;/p&gt;
+&lt;p&gt;The service is ISO-certified and compliant with HIPAA regulations
+and offers price predictability for your genome sequencing needs.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/genomics/&#34;&gt;https://docs.microsoft.com/en-us/azure/genomics/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/support/legal/sla/genomics/v1_0/&#34;&gt;https://azure.microsoft.com/en-in/support/legal/sla/genomics/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Project Bonsai</title>
+      <link>/docs/nist/catalog/azure/project_bonsai-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/project_bonsai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Low-code AI development platform for intelligent control systems
+Speed the creation of AI-powered automation to improve production
+efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/bonsai/&#34;&gt;https://docs.microsoft.com/en-us/bonsai/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/bonsai/resources/terms-of-use&#34;&gt;https://docs.microsoft.com/en-us/bonsai/resources/terms-of-use&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

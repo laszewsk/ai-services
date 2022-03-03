@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – Search</title>
+    <link>/tags/search/</link>
+    <description>Recent content in Search on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/tags/search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Cognitive Search</title>
+      <link>/docs/nist/catalog/azure/cognitive_search-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_search-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Azure Cognitive Search is the only cloud search service with
+built-in AI capabilities that enrich all types of information to
+help you identify and explore relevant content at scale.  Use
+cognitive skills for vision, language and speech or use custom
+machine learning models to uncover insights from all types of
+content.&lt;/p&gt;
+&lt;p&gt;Azure Cognitive Search also offers semantic search capability, which
+uses advanced machine learning techniques to understand user intent
+and contextually rank the most relevant search results.  Spend more
+time innovating and less time maintaining a complex cloud search
+solution.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/search/&#34;&gt;https://docs.microsoft.com/en-us/azure/search/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/search/v1_0/&#34;&gt;https://www.azure.cn/en-us/support/sla/search/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – pipelines</title>
+    <link>/tags/pipelines/</link>
+    <description>Recent content in pipelines on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/pipelines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: SAP AI Core</title>
+      <link>/docs/nist/catalog/sap/sap_ai_core-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_core-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Core is a service in the SAP Business Technology Platform
+which is designed to handle the execution and operations of your AI
+assets in a standardized, scalable, and hyperscaler-agnostic way. It
+provides seamless integration with your SAP solutions. Any AI
+function can be easily realized using open-source frameworks.  SAP
+AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

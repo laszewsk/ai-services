@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – Data processing</title>
+    <link>/tags/data-processing/</link>
+    <description>Recent content in Data processing on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/data-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Machine Learning Platform for AI</title>
+      <link>/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Machine Learning Platform for AI provides end-to-end machine learning services, including data processing, feature engineering, model training, model prediction, and model evaluation. Machine Learning Platform for AI combines all of these services to make AI more accessible than ever.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/product/30347.htm&#34;&gt;https://www.alibabacloud.com/help/en/product/30347.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/155117.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/155117.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Alibaba&amp;rsquo;s data usage policies can be found at &lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/42425.html&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/42425.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

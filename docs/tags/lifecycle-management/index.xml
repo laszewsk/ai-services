@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – lifecycle management</title>
+    <link>/tags/lifecycle-management/</link>
+    <description>Recent content in lifecycle management on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/lifecycle-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: SAP AI Launchpad</title>
+      <link>/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Launchpad is a multitenant software as a service (SaaS) application in SAP Business Technology Platform. Customers and partners can use SAP AI Launchpad to manage AI use cases (scenarios) across multiple instances of AI runtimes (such as SAP AI Core).&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

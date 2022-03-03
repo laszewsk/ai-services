@@ -1,4 +1,5 @@
 baseURL = "/"
+publishDir = "docs"
 title = "Cloud Analytics and AI  Services"
 
 # Language settings

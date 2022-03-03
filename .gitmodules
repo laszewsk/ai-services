@@ -2,3 +2,6 @@
 [submodule "themes/docsy"]
 	path = themes/docsy
 	url = https://github.com/google/docsy
+[submodule "content/en/docs/nist"]
+	path = content/en/docs/nist
+	url = git@github.com:laszewsk/nist.git

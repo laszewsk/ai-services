@@ -1,0 +1,1090 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – IBM</title>
+    <link>/docs/nist/catalog/ibm/</link>
+    <description>Recent content in IBM on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/nist/catalog/ibm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_communication_monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_communication_monitoring/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;communication-monitoring&#34;&gt;Communication Monitoring&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://help.cognitiveview.com/hc/en-us/categories/360003768493-Cognitive-View-Platform-Documentation&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Cognitive View monitors communication channels to automate quality
+and customer experience. In addition, it provides the necessary
+tools to create a customer-centric culture and reduce operational
+risk.&lt;/p&gt;
+&lt;p&gt;Voice &amp;amp; Text Analytics&lt;/p&gt;
+&lt;p&gt;Supports a variety of data sources, including text and voice&lt;/p&gt;
+&lt;p&gt;Contact center analytics&lt;/p&gt;
+&lt;p&gt;Open API &amp;amp; Integration with hundreds of 3rd party systems, including CRM&lt;/p&gt;
+&lt;p&gt;Customer Experience Analytics&lt;/p&gt;
+&lt;p&gt;Improve revenue by uncovering hidden insights from customer conversations&lt;/p&gt;
+&lt;p&gt;Sentiment &amp;amp; tone analysis&lt;/p&gt;
+&lt;p&gt;Predict customer concern &amp;amp; churn&lt;/p&gt;
+&lt;p&gt;Quality Assurance&lt;/p&gt;
+&lt;p&gt;Contact center analytics to ensure staff meets quality requirements&lt;/p&gt;
+&lt;p&gt;Automate the supervision process for workforce monitoring&lt;/p&gt;
+&lt;p&gt;In addition, Cognitive View offers custom pricing for advanced
+modules like compliance, conduct risk, and video analytics which is
+not mentioned here. Please connect with
+mailto:sales@cognitiveview.com to discuss your requirements.&lt;/p&gt;
+&lt;p&gt;Support Information:&lt;/p&gt;
+&lt;p&gt;Customers can submit issues directly to our support team from our
+website: &lt;a href=&#34;https://help.cognitiveview.com&#34;&gt;https://help.cognitiveview.com&lt;/a&gt; (24/7/365). The site allows
+customer to submit an issue report or leave a message through the
+chat support. Please include as much detail as possible on the
+issue.  Online support is available during standard business hours
+(M-F 10:30 AM -9 PM AEST).  Off-hours support is finite and
+responses may be delayed.&lt;/p&gt;
+&lt;p&gt;To submit additional information, include attachments/screenshots,
+or escalate an urgent issue, please e-mail us at
+&lt;a href=&#34;mailto:support@cognitiveview.com&#34;&gt;support@cognitiveview.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A member of our team will respond immediately upon receipt. For
+further information please visit:
+&lt;a href=&#34;https://help.cognitiveview.com/hc/en-us/articles/360053544894-Cognitive-View-Application-Support-Services&#34;&gt;https://help.cognitiveview.com/hc/en-us/articles/360053544894-Cognitive-View-Application-Support-Services&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;ibm-match-360-with-watson&#34;&gt;Ibm Match 360 With Watson&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/mdm&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Use IBM Match 360 with Watson to quickly build data pipelines for
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;analytics and other data science use cases using master data.  Start
+with your IBM MDM Advanced or Standard Edition entities, or with any
+data assets containing party information from the knowledge catalog
+and quickly map and model new attributes to your data model for a
+more complete view of your customers.  The AI-powered matching
+engine speeds configuration using the same statistical methods
+clients have relied on to produce accurate match results.  Results
+can be accessed via RESTful APIs, exported to flat files, or viewed
+online via the entity explorer.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_knowledge_studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_knowledge_studio/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;knowledge-studio&#34;&gt;Knowledge Studio&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Teach Watson the language of your domain with custom machine
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;learning models that identify entities and relationships unique to
+your industry in unstructured text. Build your models in a
+collaborative environment designed for both developers and domain
+experts, without needing to write code. Use the models in Watson
+Discovery, Watson Natural Language Understanding and Watson
+Explorer.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_language_translator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_language_translator/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;language-translator&#34;&gt;Language Translator&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/language-translator&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Neural Machine Translation comes standard for each language
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;pair. Corpus customization allows you to create your own translation
+models which account for regional or industry-specific terms.
+Instantly translate your content into multiple languages. From
+translating documents, apps, and websites to creating multilingual
+chatbots, what will you build?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_machine_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_machine_learning/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Author: IBM&lt;/li&gt;
+&lt;li&gt;Version: unkown&lt;/li&gt;
+&lt;li&gt;Modified: 17-02-2022&lt;/li&gt;
+&lt;li&gt;Created: 17-02-2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/machine-learning&#34;&gt;https://cloud.ibm.com/apidocs/machine-learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tags: cloud service, ai, artificial intelligence, software interface&lt;/li&gt;
+&lt;li&gt;Categories: AI/ML&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;IBM Watson Machine Learning is a full-service IBM Cloud offering that makes it easy for developers and data scientists to work together to integrate predictive capabilities with their applications. The Machine Learning service is a set of REST APIs that you can call from any programming language to develop applications that make smarter decisions, solve tough problems, and improve user outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_natural_language_understanding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_natural_language_understanding/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;natural-language-understanding&#34;&gt;Natural Language Understanding&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/natural-language-understanding&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Use advanced NLP to analyze text and extract meta-data from content
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;such as concepts, entities, keywords, categories, sentiment,
+emotion, relations, and semantic roles. Apply custom annotation
+models developed using Watson Knowledge Studio to identify
+industry/domain specific entities and relations in unstructured text
+with Watson NLU.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_speech_to_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_speech_to_text/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;speech-to-text&#34;&gt;Speech To Text&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/speech-to-text&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    The Speech to Text service converts the human voice into the written
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;word. The service uses deep-learning AI to apply knowledge of
+grammar, language structure, and the composition of audio and voice
+signals to accurately transcribe human speech. It can be used in
+applications such as voice-automated chatbots, analytic tools for
+customer-service call centers, and multi-media transcription, among
+many others.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_statum_kpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_statum_kpi/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;statum-kpi&#34;&gt;Statum Kpi&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://www.amberoon.com/amberoon-statum&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Amberoon Statum KPI is a performance management solution that helps
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;banks directly measure and manage their performance against peer
+banks. Unlike traditional operational analytics systems, Statum
+provides sharp insights into the future through rigorous analysis of
+performance patterns across multiple financial services
+institutions.  Statum KPI leverages advances in AI, data engineering
+and security to create a system of insight to support key
+operational decisions.&lt;/p&gt;
+&lt;p&gt;Support Information&lt;/p&gt;
+&lt;p&gt;Customers can submit issues directly to our support team via email: &lt;a href=&#34;mailto:statumkpi_help@Amberoon.com&#34;&gt;statumkpi_help@Amberoon.com&lt;/a&gt;
+(24/7/365). You can expect a response to all help desk tickets within one (1) business
+day. Daytime support responses will be done during standard business hours (M-F
+8AM - 5PM US PST), with the exclusion of Federal and Bank Holidays.&lt;/p&gt;
+&lt;p&gt;Support Locations: US and India&lt;/p&gt;
+&lt;p&gt;Service Status Page: &lt;a href=&#34;https://ibmbroker.amberoon.com/statumservicestatus&#34;&gt;https://ibmbroker.amberoon.com/statumservicestatus&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_text_to_speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_text_to_speech/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;text-to-speech&#34;&gt;Text To Speech&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/text-to-speech&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    The Text to Speech service converts written text to natural-sounding
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;speech. The service streams the synthesized audio back with minimal
+delay. The audio uses appropriate cadence and intonation for its
+language and dialect to provide voices that are smooth and
+natural. The service can be used in applications such as
+voice-automated chatbots, as well as a variety of voice-driven and
+screenless applications, such as tools for the disabled or visually
+impaired, video narration and voice over, and educational and
+home-automation solutions.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_tone_analyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_tone_analyzer/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;tone-analyzer&#34;&gt;Tone Analyzer&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/tone-analyzer&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    People show various tones, such as joy, sadness, anger, and
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;agreeableness, in daily communications. Such tones can impact the
+effectiveness of communication in different contexts. Tone Analyzer
+leverages cognitive linguistic analysis to identify a variety of
+tones at both the sentence and document level.  This insight can
+then used to refine and improve communications. It detects three
+types of tones, including emotion (anger, disgust, fear, joy and
+sadness), social propensities (openness, conscientiousness,
+extroversion, agreeableness, and emotional range), and language
+styles (analytical, confident and tentative) from text.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_assistant/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;watson-assistant&#34;&gt;Watson Assistant&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/assistant&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Watson Assistant lets you build conversational interfaces into any
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;application, device, or channel.  Add a natural language interface
+to your application to automate interactions with your end
+users. Common applications include virtual agents and chat bots that
+can integrate and communicate on any channel or device. Train Watson
+Conversation service through an easy-to-use web application,
+designed so you can quickly build natural conversation flows between
+your apps and users, and deploy scalable, cost effective solutions.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_discovery/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;watson-discovery&#34;&gt;Watson Discovery&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/discovery-data&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Add a cognitive search and content analytics engine to applications
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;to identify patterns, trends and actionable insights that drive
+better decision-making.  Securely unify structured and unstructured
+data with pre-enriched content, and use a simplified query language
+to eliminate the need for manual filtering of results.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;watson-knowledge-catalog&#34;&gt;Watson Knowledge Catalog&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://dataplatform.cloud.ibm.com/docs&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Simplify data science and data compliance with IBM Watson Knowledge
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Catalog. Make your data easy to find and share while controlling
+access to ensure appropriate use.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_openscale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_openscale/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;watson-openscale&#34;&gt;Watson Openscale&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://cloud.ibm.com/apidocs/ai-openscale&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    IBM Watson OpenScale tracks and measures outcomes from AI throughout
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;it&#39;&amp;rsquo;s lifecycle, and adapts and governs AI in changing business situations&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_studio/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;watson-studio&#34;&gt;Watson Studio&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: IBM
+    * Version: unkown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://dataplatform.cloud.ibm.com/docs&amp;gt;
+    * Tags: cloud service, ai, artificial intelligence, software interface
+    * Categories: AI/ML
+
+    ## Description
+
+    Watson Studio democratizes data science and AI to drive innovation
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;in your business. With a suite of tools for all skill levels,
+everyone can collaborate to prepare, analyze, and model data. You
+can write Python or R code in notebooks, visually code on a
+graphical canvas, or automatically build models.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+    ## Data
+
+    The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Communication Monitoring</title>
+      <link>/docs/nist/catalog/ibm/ibm_communication_monitoring-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_communication_monitoring-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Cognitive View monitors communication channels to automate quality
+and customer experience. In addition, it provides the necessary
+tools to create a customer-centric culture and reduce operational
+risk.&lt;/p&gt;
+&lt;p&gt;Voice &amp;amp; Text Analytics&lt;/p&gt;
+&lt;p&gt;Supports a variety of data sources, including text and voice&lt;/p&gt;
+&lt;p&gt;Contact center analytics&lt;/p&gt;
+&lt;p&gt;Open API &amp;amp; Integration with hundreds of 3rd party systems, including CRM&lt;/p&gt;
+&lt;p&gt;Customer Experience Analytics&lt;/p&gt;
+&lt;p&gt;Improve revenue by uncovering hidden insights from customer conversations&lt;/p&gt;
+&lt;p&gt;Sentiment &amp;amp; tone analysis&lt;/p&gt;
+&lt;p&gt;Predict customer concern &amp;amp; churn&lt;/p&gt;
+&lt;p&gt;Quality Assurance&lt;/p&gt;
+&lt;p&gt;Contact center analytics to ensure staff meets quality requirements&lt;/p&gt;
+&lt;p&gt;Automate the supervision process for workforce monitoring&lt;/p&gt;
+&lt;p&gt;In addition, Cognitive View offers custom pricing for advanced
+modules like compliance, conduct risk, and video analytics which is
+not mentioned here. Please connect with
+mailto:sales@cognitiveview.com to discuss your requirements.&lt;/p&gt;
+&lt;p&gt;Support Information:&lt;/p&gt;
+&lt;p&gt;Customers can submit issues directly to our support team from our
+website: &lt;a href=&#34;https://help.cognitiveview.com&#34;&gt;https://help.cognitiveview.com&lt;/a&gt; (24/7/365). The site allows
+customer to submit an issue report or leave a message through the
+chat support. Please include as much detail as possible on the
+issue.  Online support is available during standard business hours
+(M-F 10:30 AM -9 PM AEST).  Off-hours support is finite and
+responses may be delayed.&lt;/p&gt;
+&lt;p&gt;To submit additional information, include attachments/screenshots,
+or escalate an urgent issue, please e-mail us at
+&lt;a href=&#34;mailto:support@cognitiveview.com&#34;&gt;support@cognitiveview.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A member of our team will respond immediately upon receipt. For
+further information please visit:
+&lt;a href=&#34;https://help.cognitiveview.com/hc/en-us/articles/360053544894-Cognitive-View-Application-Support-Services&#34;&gt;https://help.cognitiveview.com/hc/en-us/articles/360053544894-Cognitive-View-Application-Support-Services&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.cognitiveview.com/hc/en-us/categories/360003768493-Cognitive-View-Platform-Documentation&#34;&gt;https://help.cognitiveview.com/hc/en-us/categories/360003768493-Cognitive-View-Platform-Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Ibm Match 360 With Watson</title>
+      <link>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_ibm_match_360_with_watson-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Use IBM Match 360 with Watson to quickly build data pipelines for
+analytics and other data science use cases using master data.  Start
+with your IBM MDM Advanced or Standard Edition entities, or with any
+data assets containing party information from the knowledge catalog
+and quickly map and model new attributes to your data model for a
+more complete view of your customers.  The AI-powered matching
+engine speeds configuration using the same statistical methods
+clients have relied on to produce accurate match results.  Results
+can be accessed via RESTful APIs, exported to flat files, or viewed
+online via the entity explorer.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/mdm&#34;&gt;https://cloud.ibm.com/apidocs/mdm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Knowledge Studio</title>
+      <link>/docs/nist/catalog/ibm/ibm_knowledge_studio-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_knowledge_studio-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Teach Watson the language of your domain with custom machine
+learning models that identify entities and relationships unique to
+your industry in unstructured text. Build your models in a
+collaborative environment designed for both developers and domain
+experts, without needing to write code. Use the models in Watson
+Discovery, Watson Natural Language Understanding and Watson
+Explorer.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro&#34;&gt;https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Language Translator</title>
+      <link>/docs/nist/catalog/ibm/ibm_language_translator-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_language_translator-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Neural Machine Translation comes standard for each language
+pair. Corpus customization allows you to create your own translation
+models which account for regional or industry-specific terms.
+Instantly translate your content into multiple languages. From
+translating documents, apps, and websites to creating multilingual
+chatbots, what will you build?&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/language-translator&#34;&gt;https://cloud.ibm.com/apidocs/language-translator&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Machine Learning</title>
+      <link>/docs/nist/catalog/ibm/ibm_machine_learning-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_machine_learning-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;IBM Watson Machine Learning is a full-service IBM Cloud offering that makes it easy for developers and data scientists to work together to integrate predictive capabilities with their applications. The Machine Learning service is a set of REST APIs that you can call from any programming language to develop applications that make smarter decisions, solve tough problems, and improve user outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/machine-learning&#34;&gt;https://cloud.ibm.com/apidocs/machine-learning&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Natural Language Understanding</title>
+      <link>/docs/nist/catalog/ibm/ibm_natural_language_understanding-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_natural_language_understanding-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Use advanced NLP to analyze text and extract meta-data from content
+such as concepts, entities, keywords, categories, sentiment,
+emotion, relations, and semantic roles. Apply custom annotation
+models developed using Watson Knowledge Studio to identify
+industry/domain specific entities and relations in unstructured text
+with Watson NLU.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/natural-language-understanding&#34;&gt;https://cloud.ibm.com/apidocs/natural-language-understanding&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Speech To Text</title>
+      <link>/docs/nist/catalog/ibm/ibm_speech_to_text-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_speech_to_text-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The Speech to Text service converts the human voice into the written
+word. The service uses deep-learning AI to apply knowledge of
+grammar, language structure, and the composition of audio and voice
+signals to accurately transcribe human speech. It can be used in
+applications such as voice-automated chatbots, analytic tools for
+customer-service call centers, and multi-media transcription, among
+many others.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/speech-to-text&#34;&gt;https://cloud.ibm.com/apidocs/speech-to-text&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Statum Kpi</title>
+      <link>/docs/nist/catalog/ibm/ibm_statum_kpi-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_statum_kpi-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amberoon Statum KPI is a performance management solution that helps
+banks directly measure and manage their performance against peer
+banks. Unlike traditional operational analytics systems, Statum
+provides sharp insights into the future through rigorous analysis of
+performance patterns across multiple financial services
+institutions.  Statum KPI leverages advances in AI, data engineering
+and security to create a system of insight to support key
+operational decisions.&lt;/p&gt;
+&lt;p&gt;Support Information&lt;/p&gt;
+&lt;p&gt;Customers can submit issues directly to our support team via email: &lt;a href=&#34;mailto:statumkpi_help@Amberoon.com&#34;&gt;statumkpi_help@Amberoon.com&lt;/a&gt;
+(24/7/365). You can expect a response to all help desk tickets within one (1) business
+day. Daytime support responses will be done during standard business hours (M-F
+8AM - 5PM US PST), with the exclusion of Federal and Bank Holidays.&lt;/p&gt;
+&lt;p&gt;Support Locations: US and India&lt;/p&gt;
+&lt;p&gt;Service Status Page: &lt;a href=&#34;https://ibmbroker.amberoon.com/statumservicestatus&#34;&gt;https://ibmbroker.amberoon.com/statumservicestatus&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amberoon.com/amberoon-statum&#34;&gt;https://www.amberoon.com/amberoon-statum&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Text To Speech</title>
+      <link>/docs/nist/catalog/ibm/ibm_text_to_speech-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_text_to_speech-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The Text to Speech service converts written text to natural-sounding
+speech. The service streams the synthesized audio back with minimal
+delay. The audio uses appropriate cadence and intonation for its
+language and dialect to provide voices that are smooth and
+natural. The service can be used in applications such as
+voice-automated chatbots, as well as a variety of voice-driven and
+screenless applications, such as tools for the disabled or visually
+impaired, video narration and voice over, and educational and
+home-automation solutions.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/text-to-speech&#34;&gt;https://cloud.ibm.com/apidocs/text-to-speech&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tone Analyzer</title>
+      <link>/docs/nist/catalog/ibm/ibm_tone_analyzer-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_tone_analyzer-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;People show various tones, such as joy, sadness, anger, and
+agreeableness, in daily communications. Such tones can impact the
+effectiveness of communication in different contexts. Tone Analyzer
+leverages cognitive linguistic analysis to identify a variety of
+tones at both the sentence and document level.  This insight can
+then used to refine and improve communications. It detects three
+types of tones, including emotion (anger, disgust, fear, joy and
+sadness), social propensities (openness, conscientiousness,
+extroversion, agreeableness, and emotional range), and language
+styles (analytical, confident and tentative) from text.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/tone-analyzer&#34;&gt;https://cloud.ibm.com/apidocs/tone-analyzer&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Watson Assistant</title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_assistant-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_assistant-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Watson Assistant lets you build conversational interfaces into any
+application, device, or channel.  Add a natural language interface
+to your application to automate interactions with your end
+users. Common applications include virtual agents and chat bots that
+can integrate and communicate on any channel or device. Train Watson
+Conversation service through an easy-to-use web application,
+designed so you can quickly build natural conversation flows between
+your apps and users, and deploy scalable, cost effective solutions.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/assistant&#34;&gt;https://cloud.ibm.com/apidocs/assistant&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Watson Discovery</title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_discovery-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_discovery-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Add a cognitive search and content analytics engine to applications
+to identify patterns, trends and actionable insights that drive
+better decision-making.  Securely unify structured and unstructured
+data with pre-enriched content, and use a simplified query language
+to eliminate the need for manual filtering of results.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/discovery-data&#34;&gt;https://cloud.ibm.com/apidocs/discovery-data&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Watson Knowledge Catalog</title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_knowledge_catalog-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Simplify data science and data compliance with IBM Watson Knowledge
+Catalog. Make your data easy to find and share while controlling
+access to ensure appropriate use.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataplatform.cloud.ibm.com/docs&#34;&gt;https://dataplatform.cloud.ibm.com/docs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Watson Openscale</title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_openscale-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_openscale-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;IBM Watson OpenScale tracks and measures outcomes from AI throughout
+it&#39;&amp;rsquo;s lifecycle, and adapts and governs AI in changing business situations&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/apidocs/ai-openscale&#34;&gt;https://cloud.ibm.com/apidocs/ai-openscale&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Watson Studio</title>
+      <link>/docs/nist/catalog/ibm/ibm_watson_studio-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/ibm/ibm_watson_studio-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Watson Studio democratizes data science and AI to drive innovation
+in your business. With a suite of tools for all skill levels,
+everyone can collaborate to prepare, analyze, and model data. You
+can write Python or R code in notebooks, visually code on a
+graphical canvas, or automatically build models.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataplatform.cloud.ibm.com/docs&#34;&gt;https://dataplatform.cloud.ibm.com/docs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.ibm.com/docs/overview?topic=overview-slas&#34;&gt;https://cloud.ibm.com/docs/overview?topic=overview-slas&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

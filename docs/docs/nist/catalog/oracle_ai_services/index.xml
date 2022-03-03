@@ -1,0 +1,339 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – AWS</title>
+    <link>/docs/nist/catalog/oracle_ai_services/</link>
+    <description>Recent content in AWS on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/nist/catalog/oracle_ai_services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Oracle Anomaly Detection</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Anomaly Detection is an AI service
+that enables developers to more easily build business-specific
+anomaly detection models that flag critical incidents, resulting in
+faster time to detection and resolution.  Specialized APIs and
+automated model selection simplify training and deploying anomaly
+detection models to applications and operations, all without data
+science expertise.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/anomaly/using/home.htm&#34;&gt;https://docs.oracle.com/en-us/iaas/Content/anomaly/using/home.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Data Labeling</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Data Labeling is a service for
+building labeled datasets to more accurately train AI and machine
+learning models. With OCI Data Labeling, developers and data
+scientists assemble data, create and browse datasets, and apply
+labels to data records through user interfaces and public APIs. The
+labeled datasets can be exported for model development across
+Oracle&amp;rsquo;s AI and data science services for a seamless model-building
+experience.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/in/artificial-intelligence/speech/&#34;&gt;https://www.oracle.com/in/artificial-intelligence/speech/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Speech</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic Speech Recognition (ASR) to convert speech to text. Built on the same AI models used for Oracle Digital Assistant, developers can use Oracle&amp;rsquo;s time-tested acoustic and language models to provide highly accurate transcription for audio or video files across many languages.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/in/artificial-intelligence/speech/&#34;&gt;https://www.oracle.com/in/artificial-intelligence/speech/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Vision</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Vision is an AI service that
+applies computer vision technology to analyze image-based
+content. Developers can make API calls to easily integrate
+pretrained models into their applications, or custom train models to
+meet their specific use cases. These models can be used to detect
+visual anomalies in manufacturing, extract text from documents to
+automate business workflows, and tag items in images to count
+products or shipments.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/vision/vision/using/home.htm&#34;&gt;https://docs.oracle.com/en-us/iaas/vision/vision/using/home.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_anomaly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_anomaly/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;oracle-anomaly-detection&#34;&gt;Oracle Anomaly Detection&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Oracle
+    * Version: unknown
+    * Modified: 2022-02-22
+    * Created: 2022-02-22
+    * &amp;lt;https://docs.oracle.com/en-us/iaas/Content/anomaly/using/home.htm&amp;gt;
+    * Tags: AI, Anomaly Detection, ML
+    * Categories: AI, Anomaly Detection
+
+    ## Description
+
+    Oracle Cloud Infrastructure (OCI) Anomaly Detection is an AI service
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;that enables developers to more easily build business-specific
+anomaly detection models that flag critical incidents, resulting in
+faster time to detection and resolution.  Specialized APIs and
+automated model selection simplify training and deploying anomaly
+detection models to applications and operations, all without data
+science expertise.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.oracle.com/cloud/sla/
+
+    ## Data
+
+    Oracle&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;oracle-digital-assistant&#34;&gt;Oracle Digital Assistant&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Oracle
+    * Version: unknown
+    * Modified: 17-02-2022
+    * Created: 17-02-2022
+    * &amp;lt;https://docs.oracle.com/en/cloud/paas/digital-assistant/&amp;gt;
+    * Tags: AI, text service, chat service, voice service, chatbot, deep learning, natural language processing, artificial intelligence, app dev
+    * Categories: AI
+
+    ## Description
+
+    Oracle Digital Assistant is an AI service that offers prebuilt skills and templates to create conversational experiences for your business applications and customers through text, chat, and voice interfaces. Application owners can easily get started with prebuilt skills to provide chatbot functionality to business users. Developers can build on the library of templates and create their own custom skills to automate the customer experiences.
+
+    ## SLA
+
+    https://www.oracle.com/cloud/sla/
+
+    ## Data
+
+    Oracle&#39;s policy on data usage and management can be read about on the Online Data Agreement document
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_labeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_labeling/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;oracle-data-labeling&#34;&gt;Oracle Data Labeling&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Oracle
+    * Version: unknown
+    * Modified: 2022-02-19
+    * Created: 2022-02-19
+    * &amp;lt;https://www.oracle.com/in/artificial-intelligence/speech/&amp;gt;
+    * Tags: AI, Iamge Classification, Virtual Assistance, Irregularity Detection, Forms Processing, Information Extraction
+    * Categories: AI, Virtual Assistance
+
+    ## Description
+
+    Oracle Cloud Infrastructure (OCI) Data Labeling is a service for
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;building labeled datasets to more accurately train AI and machine
+learning models. With OCI Data Labeling, developers and data
+scientists assemble data, create and browse datasets, and apply
+labels to data records through user interfaces and public APIs. The
+labeled datasets can be exported for model development across
+Oracle&amp;rsquo;s AI and data science services for a seamless model-building
+experience.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.oracle.com/cloud/sla/
+
+    ## Data
+
+    Oracle&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;oracle-speech&#34;&gt;Oracle Speech&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Author: Oracle&lt;/li&gt;
+&lt;li&gt;Version: unknown&lt;/li&gt;
+&lt;li&gt;Modified: 2022-02-19&lt;/li&gt;
+&lt;li&gt;Created: 2022-02-19&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/in/artificial-intelligence/speech/&#34;&gt;https://www.oracle.com/in/artificial-intelligence/speech/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tags: AI, Speech&lt;/li&gt;
+&lt;li&gt;Categories: AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic Speech Recognition (ASR) to convert speech to text. Built on the same AI models used for Oracle Digital Assistant, developers can use Oracle&amp;rsquo;s time-tested acoustic and language models to provide highly accurate transcription for audio or video files across many languages.&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;oracle-vision&#34;&gt;Oracle Vision&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;    * Author: Oracle
+    * Version: unknown
+    * Modified: 2022-02-19
+    * Created: 2022-02-19
+    * &amp;lt;https://docs.oracle.com/en-us/iaas/vision/vision/using/home.htm&amp;gt;
+    * Tags: AI, Vision, Deep Learning, Image Recognition, Text Recognition
+    * Categories: AI, Deep Learning
+
+    ## Description
+
+    Oracle Cloud Infrastructure (OCI) Vision is an AI service that
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;applies computer vision technology to analyze image-based
+content. Developers can make API calls to easily integrate
+pretrained models into their applications, or custom train models to
+meet their specific use cases. These models can be used to detect
+visual anomalies in manufacturing, extract text from documents to
+automate business workflows, and tag items in images to count
+products or shipments.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ## SLA
+
+    https://www.oracle.com/cloud/sla/
+
+    ## Data
+
+    Oracle&#39;s policy on data usage and management can be read about on the Online Data Agreement document https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd
+&lt;/code&gt;&lt;/pre&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Digital Assistant</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Digital Assistant is an AI service that offers prebuilt skills and templates to create conversational experiences for your business applications and customers through text, chat, and voice interfaces. Application owners can easily get started with prebuilt skills to provide chatbot functionality to business users. Developers can build on the library of templates and create their own custom skills to automate the customer experiences.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/en/cloud/paas/digital-assistant/&#34;&gt;https://docs.oracle.com/en/cloud/paas/digital-assistant/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document
+&lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

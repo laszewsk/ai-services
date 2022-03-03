@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – Speech</title>
+    <link>/tags/speech/</link>
+    <description>Recent content in Speech on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Oracle Speech</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic Speech Recognition (ASR) to convert speech to text. Built on the same AI models used for Oracle Digital Assistant, developers can use Oracle&amp;rsquo;s time-tested acoustic and language models to provide highly accurate transcription for audio or video files across many languages.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/in/artificial-intelligence/speech/&#34;&gt;https://www.oracle.com/in/artificial-intelligence/speech/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

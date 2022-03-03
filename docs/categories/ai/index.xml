@@ -1,0 +1,1244 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – AI</title>
+    <link>/categories/ai/</link>
+    <description>Recent content in AI on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Amazon Augmented AI</title>
+      <link>/docs/nist/catalog/aws/amazon-augmented-ai-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-augmented-ai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Augmented AI (Amazon A2I) is a machine learning service which makes it easy to build the workflows required for human review.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/augmented-ai&#34;&gt;https://aws.amazon.com/augmented-ai&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon CodeGuru</title>
+      <link>/docs/nist/catalog/aws/amazon-codeguru-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-codeguru-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application&amp;rsquo;s most expensive lines of code.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/codeguru&#34;&gt;https://aws.amazon.com/codeguru&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Comprehend</title>
+      <link>/docs/nist/catalog/aws/amazon-comprehend-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-comprehend-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. No machine learning experience required.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/comprehend&#34;&gt;https://aws.amazon.com/comprehend&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon DevOps Guru</title>
+      <link>/docs/nist/catalog/aws/amazon-devops-guru-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-devops-guru-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon DevOps Guru is a Machine Learning (ML) powered service that makes it easy to improve an application’s operational performance and availability. DevOps Guru detects behaviors that deviate from normal operating patterns so you can identify operational issues long before they impact your customers.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/devops-guru&#34;&gt;https://aws.amazon.com/devops-guru&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Elastic Inference</title>
+      <link>/docs/nist/catalog/aws/amazon-elastic-inference-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-elastic-inference-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Elastic Inference allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker instances to reduce the cost of running deep learning inference by up to 75%.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/machine-learning/elastic-inference/&#34;&gt;https://aws.amazon.com/machine-learning/elastic-inference/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Forecast</title>
+      <link>/docs/nist/catalog/aws/amazon-forecast-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-forecast-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/forecast/&#34;&gt;https://aws.amazon.com/forecast/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Fraud Detector</title>
+      <link>/docs/nist/catalog/aws/amazon-fraud-detector-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-fraud-detector-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Fraud Detector is a fully managed service that uses machine learning (ML) and more than 20 years of fraud detection expertise from Amazon, to identify potentially fraudulent activity so customers can catch more online fraud faster.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/fraud-detector&#34;&gt;https://aws.amazon.com/fraud-detector&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon HealthLake</title>
+      <link>/docs/nist/catalog/aws/amazon-healthlake-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-healthlake-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon HealthLake is a HIPAA-eligible service that healthcare providers, health insurance companies, and pharmaceutical companies can use to store, transform, query, and analyze large-scale health data.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/healthlake&#34;&gt;https://aws.amazon.com/healthlake&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Kendra</title>
+      <link>/docs/nist/catalog/aws/amazon-kendra-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-kendra-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Kendra is an intelligent search service powered by machine learning. Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories within your organization.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/kendra&#34;&gt;https://aws.amazon.com/kendra&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Lex</title>
+      <link>/docs/nist/catalog/aws/amazon-lex-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-lex-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Lex is a service for building conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/lex&#34;&gt;https://aws.amazon.com/lex&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Lookout for Equipment</title>
+      <link>/docs/nist/catalog/aws/amazon-lookout-for-equipment-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-lookout-for-equipment-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Lookout for Equipment analyzes the data from the sensors on your equipment (e.g. pressure in a generator, flow rate of a compressor, revolutions per minute of fans), to automatically train a machine learning model based on just your data, for your equipment \u2013 with no ML expertise required.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/lookout-for-equipment&#34;&gt;https://aws.amazon.com/lookout-for-equipment&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Lookout for Metrics</title>
+      <link>/docs/nist/catalog/aws/amazon-lookout-for-metrics-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-lookout-for-metrics-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Lookout for Metrics uses machine learning (ML) to automatically detect and diagnose anomalies (i.e. outliers from the norm) in business and operational data, such as a sudden dip in sales revenue or customer acquisition rates.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/lookout-for-metrics&#34;&gt;https://aws.amazon.com/lookout-for-metrics&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Lookout for Vision</title>
+      <link>/docs/nist/catalog/aws/amazon-lookout-for-vision-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-lookout-for-vision-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV).&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/lookout-for-vision&#34;&gt;https://aws.amazon.com/lookout-for-vision&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Monitron</title>
+      <link>/docs/nist/catalog/aws/amazon-monitron-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-monitron-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Monitron is an end-to-end system that uses machine learning (ML) to detect abnormal behavior in industrial machinery, enabling you to implement predictive maintenance and reduce unplanned downtime.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/monitron&#34;&gt;https://aws.amazon.com/monitron&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Personalize</title>
+      <link>/docs/nist/catalog/aws/amazon-personalize-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-personalize-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Personalize is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/personalize/&#34;&gt;https://aws.amazon.com/personalize/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Polly</title>
+      <link>/docs/nist/catalog/aws/amazon-polly-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-polly-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Polly is a service that turns text into lifelike speech. Polly lets you create applications that talk, enabling you to build entirely new categories of speech-enabled products. Polly is an Amazon artificial intelligence (AI) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/polly&#34;&gt;https://aws.amazon.com/polly&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Rekognition</title>
+      <link>/docs/nist/catalog/aws/amazon-rekognition-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-rekognition-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/rekognition&#34;&gt;https://aws.amazon.com/rekognition&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon SageMaker Ground Truth</title>
+      <link>/docs/nist/catalog/aws/amazon-sagemaker-ground-truth-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-sagemaker-ground-truth-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning quickly. SageMaker Ground Truth offers easy access to public and private human labelers and provides them with built-in workflows and interfaces for common labeling tasks.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/sagemaker/groundtruth&#34;&gt;https://aws.amazon.com/sagemaker/groundtruth&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon SageMaker</title>
+      <link>/docs/nist/catalog/aws/amazon-sagemaker-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-sagemaker-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon SageMaker is a fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. SageMaker removes all the barriers that typically slow down developers who want to use machine learning.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/sagemaker&#34;&gt;https://aws.amazon.com/sagemaker&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Textract</title>
+      <link>/docs/nist/catalog/aws/amazon-textract-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-textract-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Textract is a service that automatically extracts text and data from scanned documents. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify the contents of fields in forms and information stored in tables.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/textract/&#34;&gt;https://aws.amazon.com/textract/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Transcribe</title>
+      <link>/docs/nist/catalog/aws/amazon-transcribe-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-transcribe-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to their applications.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/transcribe&#34;&gt;https://aws.amazon.com/transcribe&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Amazon Translate</title>
+      <link>/docs/nist/catalog/aws/amazon-translate-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/amazon-translate-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/translate&#34;&gt;https://aws.amazon.com/translate&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Apache MXNet on AWS</title>
+      <link>/docs/nist/catalog/aws/apache-mxnet-on-aws-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/apache-mxnet-on-aws-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Apache MXNet on AWS is a fast and scalable training and inference framework with an easy-to-use, concise API for machine learning.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/mxnet&#34;&gt;https://aws.amazon.com/mxnet&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS Deep Learning AMIs</title>
+      <link>/docs/nist/catalog/aws/aws-deep-learning-amis-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/aws-deep-learning-amis-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The AWS Deep Learning AMIs provide machine learning practitioners and researchers with the infrastructure and tools to accelerate deep learning in the cloud, at any scale.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/deep-learning/&#34;&gt;https://aws.amazon.com/deep-learning/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS DeepComposer</title>
+      <link>/docs/nist/catalog/aws/aws-deepcomposer-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/aws-deepcomposer-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;AWS DeepComposer is the world’s first musical keyboard powered by machine learning to enable developers of all skill levels to learn Generative AI while creating original music outputs.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/deepcomposer&#34;&gt;https://aws.amazon.com/deepcomposer&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS DeepLens</title>
+      <link>/docs/nist/catalog/aws/aws-deeplens-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/aws-deeplens-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;AWS DeepLens helps put deep learning in the hands of developers, literally, with a fully programmable video camera, tutorials, code, and pre-trained models designed to expand deep learning skills.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/deeplens&#34;&gt;https://aws.amazon.com/deeplens&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS DeepRacer</title>
+      <link>/docs/nist/catalog/aws/aws-deepracer-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/aws-deepracer-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;AWS DeepRacer is a 1/18th scale race car which gives you an interesting and fun way to get started with reinforcement learning (RL).&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/deepracer&#34;&gt;https://aws.amazon.com/deepracer&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS Inferentia</title>
+      <link>/docs/nist/catalog/aws/aws-inferentia-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/aws-inferentia-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;AWS Inferentia is a machine learning inference chip designed to deliver high performance at low cost. AWS Inferentia will support the TensorFlow, Apache MXNet, and PyTorch deep learning frameworks, as well as models that use the ONNX format.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/machine-learning/inferentia&#34;&gt;https://aws.amazon.com/machine-learning/inferentia&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS Panorama</title>
+      <link>/docs/nist/catalog/aws/aws-panorama-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/aws-panorama-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;AWS Panorama is a machine learning (ML) appliance and software development kit (SDK) that brings computer vision (CV) to on-premises internet protocol (IP) cameras. With AWS Panorama, you can automate tasks that have traditionally required human inspection to improve visibility into potential issues.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/panorama/&#34;&gt;https://aws.amazon.com/panorama/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: TensorFlow on AWS</title>
+      <link>/docs/nist/catalog/aws/tensorflow-on-aws-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/aws/tensorflow-on-aws-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;TensorFlow enables developers to quickly and easily get started with deep learning in the cloud. The framework has broad support in the industry and has become a popular choice for deep learning research and application development, particularly in areas such as computer vision, natural language understanding and speech translation.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unkown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/tensorflow&#34;&gt;https://aws.amazon.com/tensorflow&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/compute/sla/&#34;&gt;https://aws.amazon.com/compute/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here &lt;a href=&#34;https://aws.amazon.com/compliance/shared-responsibility-model/&#34;&gt;https://aws.amazon.com/compliance/shared-responsibility-model/&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP AI Core</title>
+      <link>/docs/nist/catalog/sap/sap_ai_core-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_core-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Core is a service in the SAP Business Technology Platform
+which is designed to handle the execution and operations of your AI
+assets in a standardized, scalable, and hyperscaler-agnostic way. It
+provides seamless integration with your SAP solutions. Any AI
+function can be easily realized using open-source frameworks.  SAP
+AI Core supports full lifecycle management of AI scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP AI Launchpad</title>
+      <link>/docs/nist/catalog/sap/sap_ai_launchpad-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_ai_launchpad-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP AI Launchpad is a multitenant software as a service (SaaS) application in SAP Business Technology Platform. Customers and partners can use SAP AI Launchpad to manage AI use cases (scenarios) across multiple instances of AI runtimes (such as SAP AI Core).&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&#34;&gt;https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP Business Entity Recognition</title>
+      <link>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_business_entity_recognition-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Business Entity Recognition helps you to detect and highlight any
+type of business entity in unstructured text. You can use the
+service, for example, to automatically extract the context from
+incoming emails with invoice inquiries, automating recurring tasks
+associated with answering queries about the status and payment of
+invoices. Business Entity Recognition is part of the SAP AI Business
+Services portfolio.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/Business_Entity_Recognition/SHIP/en-US&#34;&gt;https://help.sap.com/viewer/product/Business_Entity_Recognition/SHIP/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP Conversational AI</title>
+      <link>/docs/nist/catalog/sap/sap_conversational_ai-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_conversational_ai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;SAP Conversational AI is a collection of natural language processing
+services. As the conversational AI layer of SAP Business Technology
+Platform, it enables users to build and monitor intelligent chatbots
+in one interface to automate tasks and workflows.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US&#34;&gt;https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SAP Document Classification</title>
+      <link>/docs/nist/catalog/sap/sap_document_classification-h/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/sap/sap_document_classification-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Document Classification helps you to apply machine learning to
+automate the management and processing of large amounts of business
+documents. With customized classification models, you can use the
+service in a wide range of business scenarios and adapt it to your
+special requirements. Use the service in critical business processes
+such as enterprise mail inbox processing, contract management and
+invoice processing. Document Classification is part of the SAP AI
+Business Services portfolio.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/en-US&#34;&gt;https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/en-US&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&#34;&gt;https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&amp;amp;search=Service%20Level%20Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;SAP&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.sap.com/about/agreements/policies.html&#34;&gt;https://www.sap.com/about/agreements/policies.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Anomaly Detection</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_anomaly-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Anomaly Detection is an AI service
+that enables developers to more easily build business-specific
+anomaly detection models that flag critical incidents, resulting in
+faster time to detection and resolution.  Specialized APIs and
+automated model selection simplify training and deploying anomaly
+detection models to applications and operations, all without data
+science expertise.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/anomaly/using/home.htm&#34;&gt;https://docs.oracle.com/en-us/iaas/Content/anomaly/using/home.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Data Labeling</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_labeling-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Data Labeling is a service for
+building labeled datasets to more accurately train AI and machine
+learning models. With OCI Data Labeling, developers and data
+scientists assemble data, create and browse datasets, and apply
+labels to data records through user interfaces and public APIs. The
+labeled datasets can be exported for model development across
+Oracle&amp;rsquo;s AI and data science services for a seamless model-building
+experience.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/in/artificial-intelligence/speech/&#34;&gt;https://www.oracle.com/in/artificial-intelligence/speech/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Speech</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_speech-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic Speech Recognition (ASR) to convert speech to text. Built on the same AI models used for Oracle Digital Assistant, developers can use Oracle&amp;rsquo;s time-tested acoustic and language models to provide highly accurate transcription for audio or video files across many languages.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/in/artificial-intelligence/speech/&#34;&gt;https://www.oracle.com/in/artificial-intelligence/speech/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oracle Vision</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_vision-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Cloud Infrastructure (OCI) Vision is an AI service that
+applies computer vision technology to analyze image-based
+content. Developers can make API calls to easily integrate
+pretrained models into their applications, or custom train models to
+meet their specific use cases. These models can be used to detect
+visual anomalies in manufacturing, extract text from documents to
+automate business workflows, and tag items in images to count
+products or shipments.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/vision/vision/using/home.htm&#34;&gt;https://docs.oracle.com/en-us/iaas/vision/vision/using/home.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document &lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Intelligent Speech Interaction</title>
+      <link>/docs/nist/catalog/alibaba/alibaba_intelligent_speech_interaction-h/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/alibaba/alibaba_intelligent_speech_interaction-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Intelligent Speech Interaction is developed based on state-of-the-art technologies
+such as speech recognition, speech synthesis, and natural language understanding.
+Enterprises can integrate Intelligent Speech Interaction into their products to
+enable them to listen, understand, and converse with users, providing users with
+an immersive human-computer interaction experience. Intelligent Speech Interaction
+is currently available in Mandarin Chinese, Cantonese Chinese, English, Japanese,
+Korean, French and Indonesian, and please stay tuned for other languages.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/158269.html&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/158269.html&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/152143.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/152143.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Alibaba&amp;rsquo;s data usage policies can be found at &lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/42425.html&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/42425.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Machine Learning Platform for AI</title>
+      <link>/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/alibaba/alibaba_machine_learning_platform_for_ai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Machine Learning Platform for AI provides end-to-end machine learning services, including data processing, feature engineering, model training, model prediction, and model evaluation. Machine Learning Platform for AI combines all of these services to make AI more accessible than ever.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/product/30347.htm&#34;&gt;https://www.alibabacloud.com/help/en/product/30347.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/155117.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/155117.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Alibaba&amp;rsquo;s data usage policies can be found at &lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/42425.html&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/42425.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Image Search</title>
+      <link>/docs/nist/catalog/alibaba/alibaba_image_search-h/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/alibaba/alibaba_image_search-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Image Search allows your users to search by image based on image similarities.
+Image Search uses deep learning and machine vision to capture characteristics of
+images and then search for images based on the captured information.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/66567.htm&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/66567.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/85212.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/85212.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Alibaba&amp;rsquo;s data usage policies can be found at &lt;a href=&#34;https://www.alibabacloud.com/help/en/doc-detail/42425.html&#34;&gt;https://www.alibabacloud.com/help/en/doc-detail/42425.html&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Applied AI Services</title>
+      <link>/docs/nist/catalog/azure/applied_ai_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/applied_ai_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A family of AI services that accelerate development of solutions for
+common business processes.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/applied-ai-services/&#34;&gt;https://docs.microsoft.com/en-us/azure/applied-ai-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/support/legal/sla/azure-applied-ai-services/v1_0/&#34;&gt;https://azure.microsoft.com/en-us/support/legal/sla/azure-applied-ai-services/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Azure Machine Learning</title>
+      <link>/docs/nist/catalog/azure/azure_machine_learning-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/azure_machine_learning-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Azure Machine Learning is a cloud service for accelerating and
+managing the machine learning project lifecycle.  Machine learning
+professionals, data scientists, and engineers can use it in their
+day-to-day workflows to train and deploy models, and even to manage
+MLOps.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/machine-learning/&#34;&gt;https://docs.microsoft.com/en-us/azure/machine-learning/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/support/legal/sla/machine-learning-service/v1_0/&#34;&gt;https://azure.microsoft.com/en-us/support/legal/sla/machine-learning-service/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Bot Services</title>
+      <link>/docs/nist/catalog/azure/bot_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/bot_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Develop enterprise-grade conversational AI experiences while
+maintaining control of your data.  Build multilingual and multimodal
+bots for any scenario from sales to customer support and employee
+productivity.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&#34;&gt;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/&#34;&gt;https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cognitive Search</title>
+      <link>/docs/nist/catalog/azure/cognitive_search-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_search-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Azure Cognitive Search is the only cloud search service with
+built-in AI capabilities that enrich all types of information to
+help you identify and explore relevant content at scale.  Use
+cognitive skills for vision, language and speech or use custom
+machine learning models to uncover insights from all types of
+content.&lt;/p&gt;
+&lt;p&gt;Azure Cognitive Search also offers semantic search capability, which
+uses advanced machine learning techniques to understand user intent
+and contextually rank the most relevant search results.  Spend more
+time innovating and less time maintaining a complex cloud search
+solution.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/search/&#34;&gt;https://docs.microsoft.com/en-us/azure/search/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/search/v1_0/&#34;&gt;https://www.azure.cn/en-us/support/sla/search/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cognitive Services</title>
+      <link>/docs/nist/catalog/azure/cognitive_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/cognitive-services/&#34;&gt;https://docs.microsoft.com/en-us/azure/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/cognitive-services/&#34;&gt;https://www.azure.cn/en-us/support/sla/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Microsoft Genomics</title>
+      <link>/docs/nist/catalog/azure/microsoft_genomics-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/microsoft_genomics-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Microsoft Genomics offers a cloud implementation of the
+Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)
+for secondary analysis.&lt;/p&gt;
+&lt;p&gt;The service is ISO-certified and compliant with HIPAA regulations
+and offers price predictability for your genome sequencing needs.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/genomics/&#34;&gt;https://docs.microsoft.com/en-us/azure/genomics/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/support/legal/sla/genomics/v1_0/&#34;&gt;https://azure.microsoft.com/en-in/support/legal/sla/genomics/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Project Bonsai</title>
+      <link>/docs/nist/catalog/azure/project_bonsai-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/project_bonsai-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Low-code AI development platform for intelligent control systems
+Speed the creation of AI-powered automation to improve production
+efficiency and reduce downtime—without requiring data science.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/bonsai/&#34;&gt;https://docs.microsoft.com/en-us/bonsai/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/bonsai/resources/terms-of-use&#34;&gt;https://docs.microsoft.com/en-us/bonsai/resources/terms-of-use&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AutoML image</title>
+      <link>/docs/nist/catalog/google/google_auto_ml_image-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/google/google_auto_ml_image-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Auto ML image is an image recognition software used to analyze
+images and pull data from key aspects of said picture.  this will
+train an ai to take those aspects from a picture and use recurisve
+programing to highlights the same aspects in other pictures.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.google.com/vertex-ai&#34;&gt;https://cloud.google.com/vertex-ai&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.google.com/vision/sla&#34;&gt;https://cloud.google.com/vision/sla&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

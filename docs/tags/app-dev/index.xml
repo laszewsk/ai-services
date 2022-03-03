@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – app dev</title>
+    <link>/tags/app-dev/</link>
+    <description>Recent content in app dev on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/tags/app-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Oracle Digital Assistant</title>
+      <link>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/oracle_ai_services/oracle_digital_assistant-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Oracle Digital Assistant is an AI service that offers prebuilt skills and templates to create conversational experiences for your business applications and customers through text, chat, and voice interfaces. Application owners can easily get started with prebuilt skills to provide chatbot functionality to business users. Developers can build on the library of templates and create their own custom skills to automate the customer experiences.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/en/cloud/paas/digital-assistant/&#34;&gt;https://docs.oracle.com/en/cloud/paas/digital-assistant/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oracle.com/cloud/sla/&#34;&gt;https://www.oracle.com/cloud/sla/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Oracle&amp;rsquo;s policy on data usage and management can be read about on the Online Data Agreement document
+&lt;a href=&#34;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf&#34;&gt;https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

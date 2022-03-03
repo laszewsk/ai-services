@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Analytics and AI  Services – Service</title>
+    <link>/tags/service/</link>
+    <description>Recent content in Service on Cloud Analytics and AI  Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Bot Services</title>
+      <link>/docs/nist/catalog/azure/bot_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/bot_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Develop enterprise-grade conversational AI experiences while
+maintaining control of your data.  Build multilingual and multimodal
+bots for any scenario from sales to customer support and employee
+productivity.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&#34;&gt;https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/&#34;&gt;https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cognitive Services</title>
+      <link>/docs/nist/catalog/azure/cognitive_services-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/nist/catalog/azure/cognitive_services-h/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Cognitive Services brings AI within reach of every developer and data scientist.  With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps.  Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.&lt;/p&gt;
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+&lt;p&gt;unknown&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/cognitive-services/&#34;&gt;https://docs.microsoft.com/en-us/azure/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sla&#34;&gt;SLA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.azure.cn/en-us/support/sla/cognitive-services/&#34;&gt;https://www.azure.cn/en-us/support/sla/cognitive-services/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;tbd&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
