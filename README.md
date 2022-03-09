@@ -1,5 +1,6 @@
-# Clone
+# Install
 
+## Clone with ssh
 
 ```bash
 git clone git@github.com:laszewsk/nist.git
@@ -10,19 +11,12 @@ cms help
 cd ai-services/content/en/docs/
 ln -s ../../../../nist nist 
 cd ../../../..
-```
-
-You can now edit your own versions of the site’s source files.
-
-If you want to do SCSS edits and want to publish these, you need to install `PostCSS`
-
-```bash
+cd ai-services
 npm install
+hugo -D server
+open  http://localhost:1313/ai-services/
 ```
 
-```
-hugo server
-```
 
 ## Running a container locally
 
