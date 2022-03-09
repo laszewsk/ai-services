@@ -3,4 +3,4 @@ resources/
 node_modules/
 package-lock.json
 .hugo_build.lock
-content/en/docs/nist/
+content/en/docs/nist
