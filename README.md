@@ -3,7 +3,11 @@
 ## Clone with ssh
 
 ```bash
+git clone --recurse-submodules --depth 1 git@github.com:laszewsk/nist.git
 git clone --recurse-submodules --depth 1 git@github.com:laszewsk/ai-services.git
+pip install cloudmesh-installer -U
+cloudmesh-installer get catalog
+cms help
 cd ai-services
 npm install
 hugo -D server
@@ -13,7 +17,11 @@ open  http://localhost:1313/ai-services/
 ## Clone with https
 
 ```bash
+git clone --recurse-submodules --depth 1 https://github.com/laszewsk/nist.git
 git clone --recurse-submodules --depth 1 https://github.com/laszewsk/ai-services.git
+pip install cloudmesh-installer -U
+cloudmesh-installer get catalog
+cms help
 cd ai-services
 npm install
 hugo -D server
