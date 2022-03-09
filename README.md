@@ -1,8 +1,15 @@
-# cLONE
+# Clone
+
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/me/example.git
+git clone git@github.com:laszewsk/nist.git
 git clone --recurse-submodules --depth 1 git@github.com:laszewsk/ai-services.git
+pip install cloudmesh-installer -U
+cloudmesh-installer get catalog
+cms help
+cd ai-services/content/en/docs/
+ln -s ../../../../nist nist 
+cd ../../../..
 ```
 
 You can now edit your own versions of the site’s source files.
