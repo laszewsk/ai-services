@@ -4,5 +4,5 @@ update:
 	git submodule foreach git pull origin main
 
 commit:
-	cd /content/en/docs/nist; git commit -a
-	cd /content/en/docs/nist; git push 
+	cd content/en/docs/nist; git commit -a
+	cd content/en/docs/nist; git push 
