@@ -4,25 +4,20 @@
 
 ```bash
 git clone --recurse-submodules --depth 1 git@github.com:laszewsk/ai-services.git
+cd ai-services
+npm install
+hugo -D server
+open  http://localhost:1313/ai-services/
 ```
 
 ## Clone with https
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/me/example.git
-git clone --recurse-submodules --depth 1 git@github.com:laszewsk/ai-services.git
-```
-
-You can now edit your own versions of the site’s source files.
-
-If you want to do SCSS edits and want to publish these, you need to install `PostCSS`
-
-```bash
+git clone --recurse-submodules --depth 1 https://github.com/laszewsk/ai-services.git
+cd ai-services
 npm install
-```
-
-```
-hugo server
+hugo -D server
+open  http://localhost:1313/ai-services/
 ```
 
 ## Running a container locally
