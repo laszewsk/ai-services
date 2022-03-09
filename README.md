@@ -9,6 +9,7 @@ pip install cloudmesh-installer -U
 cloudmesh-installer get catalog
 cms help
 cd ai-services
+ln -s nist content/en/docs/nist
 npm install
 hugo -D server
 open  http://localhost:1313/ai-services/
