@@ -3,7 +3,7 @@
 ## Clone with ssh
 
 ```bash
-git clone --recurse-submodules --depth 1 git@github.com:laszewsk/nist.git
+git clone git@github.com:laszewsk/nist.git
 git clone --recurse-submodules --depth 1 git@github.com:laszewsk/ai-services.git
 pip install cloudmesh-installer -U
 cloudmesh-installer get catalog
@@ -17,7 +17,7 @@ open  http://localhost:1313/ai-services/
 ## Clone with https
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/laszewsk/nist.git
+git clone https://github.com/laszewsk/nist.git
 git clone --recurse-submodules --depth 1 https://github.com/laszewsk/ai-services.git
 pip install cloudmesh-installer -U
 cloudmesh-installer get catalog
