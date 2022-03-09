@@ -1,4 +1,12 @@
-# cLONE
+# Install
+
+## Clone with ssh
+
+```bash
+git clone --recurse-submodules --depth 1 git@github.com:laszewsk/ai-services.git
+```
+
+## Clone with https
 
 ```bash
 git clone --recurse-submodules --depth 1 https://github.com/me/example.git
